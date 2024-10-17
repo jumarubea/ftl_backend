@@ -1,0 +1,1001 @@
+Factory Name,Location,Industry Types,Production Capacity,Byproduct Type,Byproduct Quantity,Byproduct Frequency,Required Byproduct,Utilization Method,Demand Scale,Frequency of Use
+Factory_440,"China, Shenzhen",Plastics,9184,Waste Chemicals,575,Daily,Recycled Plastic,Recycling,High,Daily
+Factory_363,"USA, California",Pharmaceuticals,4236,Bio-waste,372,Daily,Bio-fuel,Recycling,Low,Monthly
+Factory_497,"UK, London",Plastics,8004,Bio-waste,804,Monthly,Steel,Recycling,Low,Weekly
+Factory_148,"Japan, Tokyo",Pharmaceuticals,4222,Waste Chemicals,750,Daily,Bio-fuel,Composting,Medium,Weekly
+Factory_440,"UK, London",Electronics,1555,Plastic Waste,193,Weekly,Bio-fuel,Composting,Low,Monthly
+Factory_307,"China, Shenzhen",Textiles,5336,Heat,551,Daily,Heat Energy,Composting,High,Daily
+Factory_157,"Japan, Tokyo",Food Processing,682,Plastic Waste,565,Weekly,Heat Energy,Recycling,High,Monthly
+Factory_497,"UK, London",Plastics,7982,Heat,464,Daily,Silicon,Recycling,Medium,Daily
+Factory_490,"South Africa, Johannesburg",Automotive,9443,Plastic Waste,683,Monthly,Steel,Energy Source,High,Monthly
+Factory_120,"USA, California",Textiles,9916,Heat,359,Weekly,Bio-fuel,Energy Source,Low,Monthly
+Factory_129,"China, Shenzhen",Plastics,420,Heat,909,Monthly,Recycled Plastic,Composting,Low,Monthly
+Factory_328,"South Africa, Johannesburg",Metals,6288,Heat,490,Weekly,Bio-fuel,Recycling,Low,Daily
+Factory_326,"Germany, Berlin",Metals,1356,Metal Scraps,344,Monthly,Heat Energy,Energy Source,Medium,Daily
+Factory_116,"India, Mumbai",Plastics,9136,Plastic Waste,651,Monthly,Bio-fuel,Recycling,Medium,Daily
+Factory_137,"Germany, Berlin",Textiles,663,Slag,216,Monthly,Steel,Composting,Medium,Weekly
+Factory_386,"Brazil, Sao Paulo",Pharmaceuticals,729,Slag,956,Weekly,Recycled Plastic,Energy Source,High,Daily
+Factory_95,"USA, California",Chemicals,2122,Plastic Waste,615,Weekly,Heat Energy,Recycling,Low,Weekly
+Factory_418,"Brazil, Sao Paulo",Automotive,4366,Waste Chemicals,607,Monthly,Heat Energy,Recycling,High,Daily
+Factory_51,"Japan, Tokyo",Pharmaceuticals,8853,Slag,377,Daily,Heat Energy,Raw Material,High,Monthly
+Factory_319,"India, Mumbai",Plastics,5314,Bio-waste,939,Weekly,Silicon,Raw Material,Medium,Monthly
+Factory_204,"Brazil, Sao Paulo",Automotive,9310,Plastic Waste,575,Weekly,Heat Energy,Raw Material,Low,Monthly
+Factory_287,"Germany, Berlin",Chemicals,5355,Plastic Waste,778,Daily,Bio-fuel,Recycling,Low,Monthly
+Factory_88,"Germany, Berlin",Food Processing,6565,Metal Scraps,68,Weekly,Silicon,Recycling,Medium,Monthly
+Factory_489,"India, Mumbai",Pharmaceuticals,4027,Waste Chemicals,520,Weekly,Heat Energy,Energy Source,Low,Daily
+Factory_176,"Japan, Tokyo",Chemicals,1520,Bio-waste,559,Monthly,Bio-fuel,Raw Material,Low,Monthly
+Factory_340,"Japan, Tokyo",Food Processing,6489,Plastic Waste,581,Monthly,Organic Material,Composting,Medium,Monthly
+Factory_26,"Germany, Berlin",Metals,5411,Bio-waste,83,Weekly,Steel,Recycling,High,Monthly
+Factory_289,"UK, London",Chemicals,2021,Metal Scraps,39,Monthly,Silicon,Composting,Medium,Monthly
+Factory_67,"USA, California",Plastics,9495,Waste Chemicals,84,Daily,Bio-fuel,Recycling,High,Daily
+Factory_482,"India, Mumbai",Electronics,981,Plastic Waste,445,Daily,Heat Energy,Composting,Medium,Monthly
+Factory_458,"Japan, Tokyo",Textiles,324,Bio-waste,193,Monthly,Silicon,Energy Source,Low,Monthly
+Factory_44,"China, Shenzhen",Chemicals,726,Slag,212,Monthly,Heat Energy,Composting,High,Daily
+Factory_407,"South Africa, Johannesburg",Plastics,5882,Plastic Waste,556,Daily,Organic Material,Recycling,High,Monthly
+Factory_68,"Japan, Tokyo",Plastics,9718,Waste Chemicals,825,Monthly,Recycled Plastic,Composting,High,Monthly
+Factory_8,"India, Mumbai",Plastics,9247,Metal Scraps,979,Daily,Steel,Energy Source,Low,Daily
+Factory_112,"Japan, Tokyo",Textiles,2704,Heat,669,Weekly,Recycled Plastic,Recycling,High,Daily
+Factory_406,"USA, California",Textiles,544,Heat,286,Monthly,Organic Material,Energy Source,Low,Weekly
+Factory_21,"China, Shenzhen",Electronics,1966,Plastic Waste,471,Monthly,Recycled Plastic,Raw Material,Low,Weekly
+Factory_131,"USA, California",Pharmaceuticals,519,Bio-waste,328,Daily,Heat Energy,Raw Material,High,Weekly
+Factory_129,"India, Mumbai",Textiles,4143,Plastic Waste,958,Weekly,Silicon,Raw Material,High,Daily
+Factory_131,"India, Mumbai",Chemicals,6835,Slag,890,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_460,"UK, London",Plastics,663,Heat,795,Daily,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_472,"USA, California",Plastics,7272,Bio-waste,175,Weekly,Bio-fuel,Recycling,Medium,Monthly
+Factory_157,"South Africa, Johannesburg",Food Processing,1269,Slag,862,Weekly,Recycled Plastic,Raw Material,High,Daily
+Factory_212,"Brazil, Sao Paulo",Automotive,9385,Waste Chemicals,333,Monthly,Steel,Recycling,Medium,Weekly
+Factory_15,"UK, London",Electronics,1881,Slag,720,Daily,Organic Material,Energy Source,Low,Weekly
+Factory_424,"Germany, Berlin",Metals,8630,Heat,635,Daily,Organic Material,Recycling,Low,Monthly
+Factory_468,"Germany, Berlin",Pharmaceuticals,9485,Bio-waste,51,Monthly,Organic Material,Raw Material,Low,Weekly
+Factory_2,"Germany, Berlin",Plastics,6010,Bio-waste,81,Daily,Organic Material,Raw Material,High,Monthly
+Factory_153,"Brazil, Sao Paulo",Pharmaceuticals,652,Bio-waste,647,Daily,Steel,Energy Source,High,Monthly
+Factory_313,"UK, London",Automotive,2876,Metal Scraps,612,Weekly,Bio-fuel,Energy Source,High,Monthly
+Factory_97,"UK, London",Food Processing,2972,Slag,162,Monthly,Recycled Plastic,Energy Source,Medium,Daily
+Factory_353,"Brazil, Sao Paulo",Chemicals,6462,Waste Chemicals,82,Daily,Silicon,Raw Material,Medium,Daily
+Factory_115,"China, Shenzhen",Automotive,9634,Bio-waste,99,Monthly,Steel,Composting,High,Weekly
+Factory_342,"UK, London",Textiles,5619,Metal Scraps,363,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_388,"Japan, Tokyo",Automotive,6563,Bio-waste,503,Monthly,Recycled Plastic,Composting,Low,Weekly
+Factory_224,"USA, California",Food Processing,432,Heat,56,Monthly,Steel,Composting,Medium,Monthly
+Factory_347,"Brazil, Sao Paulo",Food Processing,5471,Slag,431,Monthly,Recycled Plastic,Energy Source,High,Monthly
+Factory_491,"India, Mumbai",Textiles,9458,Bio-waste,589,Monthly,Organic Material,Raw Material,Medium,Weekly
+Factory_353,"Germany, Berlin",Automotive,8279,Metal Scraps,473,Daily,Bio-fuel,Composting,High,Weekly
+Factory_449,"Brazil, Sao Paulo",Plastics,5100,Slag,597,Daily,Bio-fuel,Recycling,Medium,Daily
+Factory_107,"UK, London",Metals,2551,Slag,194,Monthly,Heat Energy,Energy Source,Low,Monthly
+Factory_476,"Brazil, Sao Paulo",Electronics,3829,Plastic Waste,474,Monthly,Heat Energy,Composting,Low,Daily
+Factory_466,"Germany, Berlin",Metals,3984,Plastic Waste,573,Daily,Organic Material,Recycling,High,Weekly
+Factory_2,"USA, California",Plastics,105,Heat,866,Monthly,Organic Material,Raw Material,High,Monthly
+Factory_416,"Brazil, Sao Paulo",Plastics,2162,Bio-waste,720,Daily,Organic Material,Composting,High,Daily
+Factory_453,"Brazil, Sao Paulo",Pharmaceuticals,494,Bio-waste,480,Daily,Steel,Recycling,Low,Monthly
+Factory_202,"Japan, Tokyo",Electronics,2757,Heat,153,Daily,Heat Energy,Composting,High,Weekly
+Factory_197,"Germany, Berlin",Metals,3712,Heat,715,Weekly,Steel,Raw Material,Medium,Monthly
+Factory_299,"China, Shenzhen",Pharmaceuticals,2233,Slag,126,Daily,Steel,Energy Source,Medium,Weekly
+Factory_166,"USA, California",Food Processing,6137,Bio-waste,1000,Monthly,Organic Material,Raw Material,High,Monthly
+Factory_57,"Japan, Tokyo",Plastics,8924,Waste Chemicals,518,Monthly,Bio-fuel,Recycling,Low,Weekly
+Factory_334,"China, Shenzhen",Plastics,1844,Bio-waste,444,Daily,Heat Energy,Composting,High,Monthly
+Factory_61,"India, Mumbai",Pharmaceuticals,4216,Metal Scraps,458,Daily,Recycled Plastic,Raw Material,Low,Weekly
+Factory_425,"India, Mumbai",Chemicals,6284,Plastic Waste,191,Weekly,Silicon,Energy Source,Low,Monthly
+Factory_407,"UK, London",Metals,7937,Heat,339,Daily,Bio-fuel,Raw Material,Low,Monthly
+Factory_254,"Germany, Berlin",Electronics,5852,Bio-waste,91,Daily,Recycled Plastic,Composting,High,Monthly
+Factory_177,"Germany, Berlin",Chemicals,8677,Slag,811,Weekly,Organic Material,Recycling,Low,Monthly
+Factory_332,"Brazil, Sao Paulo",Chemicals,6933,Waste Chemicals,303,Daily,Silicon,Composting,Low,Daily
+Factory_372,"Germany, Berlin",Food Processing,2347,Heat,388,Monthly,Steel,Raw Material,Medium,Weekly
+Factory_406,"India, Mumbai",Chemicals,5093,Bio-waste,487,Weekly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_266,"UK, London",Textiles,4096,Slag,788,Daily,Bio-fuel,Composting,Medium,Weekly
+Factory_331,"UK, London",Pharmaceuticals,2772,Slag,942,Weekly,Heat Energy,Raw Material,Low,Weekly
+Factory_322,"Brazil, Sao Paulo",Plastics,8368,Waste Chemicals,341,Daily,Steel,Composting,Medium,Daily
+Factory_129,"South Africa, Johannesburg",Plastics,2254,Waste Chemicals,442,Weekly,Silicon,Energy Source,Low,Weekly
+Factory_90,"UK, London",Electronics,6001,Metal Scraps,860,Monthly,Steel,Raw Material,Medium,Daily
+Factory_6,"Japan, Tokyo",Automotive,1728,Bio-waste,847,Daily,Recycled Plastic,Energy Source,Medium,Daily
+Factory_124,"Japan, Tokyo",Chemicals,6236,Heat,12,Weekly,Bio-fuel,Recycling,Medium,Daily
+Factory_239,"UK, London",Food Processing,7730,Slag,647,Weekly,Recycled Plastic,Energy Source,High,Daily
+Factory_161,"South Africa, Johannesburg",Food Processing,9828,Heat,431,Monthly,Steel,Recycling,High,Daily
+Factory_261,"USA, California",Chemicals,4750,Metal Scraps,370,Weekly,Heat Energy,Recycling,Low,Daily
+Factory_283,"China, Shenzhen",Pharmaceuticals,5757,Plastic Waste,304,Daily,Bio-fuel,Energy Source,Low,Weekly
+Factory_190,"UK, London",Plastics,1366,Waste Chemicals,769,Daily,Heat Energy,Recycling,Low,Monthly
+Factory_129,"Germany, Berlin",Food Processing,9634,Metal Scraps,621,Daily,Recycled Plastic,Energy Source,Low,Monthly
+Factory_300,"China, Shenzhen",Chemicals,7535,Heat,142,Weekly,Silicon,Recycling,Medium,Monthly
+Factory_490,"India, Mumbai",Metals,637,Bio-waste,654,Weekly,Bio-fuel,Energy Source,High,Weekly
+Factory_310,"Germany, Berlin",Pharmaceuticals,3320,Metal Scraps,636,Daily,Heat Energy,Composting,High,Monthly
+Factory_290,"UK, London",Food Processing,284,Slag,764,Daily,Bio-fuel,Energy Source,High,Monthly
+Factory_160,"Brazil, Sao Paulo",Chemicals,2127,Waste Chemicals,542,Weekly,Bio-fuel,Recycling,Low,Monthly
+Factory_308,"India, Mumbai",Chemicals,5289,Waste Chemicals,460,Weekly,Silicon,Recycling,Medium,Monthly
+Factory_276,"Japan, Tokyo",Chemicals,6643,Bio-waste,851,Weekly,Recycled Plastic,Composting,Low,Monthly
+Factory_254,"Japan, Tokyo",Automotive,9709,Plastic Waste,448,Monthly,Heat Energy,Composting,Medium,Weekly
+Factory_446,"China, Shenzhen",Pharmaceuticals,9884,Heat,483,Monthly,Steel,Recycling,High,Monthly
+Factory_310,"UK, London",Food Processing,1052,Heat,78,Daily,Steel,Recycling,Low,Monthly
+Factory_361,"Germany, Berlin",Food Processing,265,Metal Scraps,112,Monthly,Silicon,Recycling,High,Monthly
+Factory_57,"Japan, Tokyo",Automotive,4825,Waste Chemicals,265,Weekly,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_188,"China, Shenzhen",Pharmaceuticals,7839,Waste Chemicals,874,Daily,Bio-fuel,Raw Material,High,Monthly
+Factory_464,"India, Mumbai",Electronics,4010,Slag,436,Monthly,Recycled Plastic,Recycling,Medium,Daily
+Factory_311,"Japan, Tokyo",Electronics,3826,Metal Scraps,334,Monthly,Bio-fuel,Composting,Low,Monthly
+Factory_177,"UK, London",Chemicals,8506,Slag,570,Monthly,Steel,Energy Source,Medium,Weekly
+Factory_493,"USA, California",Metals,4472,Slag,786,Monthly,Heat Energy,Composting,Medium,Weekly
+Factory_301,"Japan, Tokyo",Automotive,3744,Bio-waste,864,Daily,Heat Energy,Composting,Low,Daily
+Factory_433,"Brazil, Sao Paulo",Electronics,9970,Waste Chemicals,484,Monthly,Heat Energy,Energy Source,Medium,Weekly
+Factory_467,"Germany, Berlin",Plastics,6073,Bio-waste,467,Daily,Recycled Plastic,Recycling,High,Daily
+Factory_238,"South Africa, Johannesburg",Pharmaceuticals,7577,Slag,335,Monthly,Bio-fuel,Energy Source,High,Monthly
+Factory_409,"China, Shenzhen",Electronics,8118,Waste Chemicals,127,Weekly,Recycled Plastic,Composting,Medium,Monthly
+Factory_159,"Germany, Berlin",Automotive,1655,Heat,466,Daily,Organic Material,Composting,Medium,Monthly
+Factory_332,"South Africa, Johannesburg",Textiles,1812,Heat,99,Monthly,Heat Energy,Composting,Medium,Daily
+Factory_42,"USA, California",Chemicals,2314,Heat,569,Weekly,Heat Energy,Recycling,High,Daily
+Factory_177,"UK, London",Chemicals,2065,Waste Chemicals,189,Monthly,Recycled Plastic,Composting,High,Daily
+Factory_247,"China, Shenzhen",Automotive,9193,Heat,150,Monthly,Silicon,Energy Source,High,Daily
+Factory_54,"USA, California",Textiles,9984,Plastic Waste,714,Monthly,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_268,"India, Mumbai",Plastics,5267,Heat,302,Weekly,Steel,Raw Material,High,Monthly
+Factory_237,"India, Mumbai",Chemicals,583,Bio-waste,415,Daily,Organic Material,Composting,Low,Weekly
+Factory_137,"South Africa, Johannesburg",Plastics,5198,Plastic Waste,658,Daily,Recycled Plastic,Composting,Medium,Monthly
+Factory_86,"UK, London",Chemicals,329,Waste Chemicals,838,Weekly,Bio-fuel,Recycling,Low,Monthly
+Factory_244,"Germany, Berlin",Plastics,7785,Bio-waste,741,Monthly,Steel,Composting,Low,Daily
+Factory_189,"UK, London",Metals,3513,Waste Chemicals,194,Weekly,Organic Material,Raw Material,Low,Daily
+Factory_312,"Brazil, Sao Paulo",Chemicals,125,Slag,852,Daily,Organic Material,Recycling,Low,Monthly
+Factory_295,"India, Mumbai",Textiles,4008,Slag,23,Daily,Silicon,Raw Material,High,Monthly
+Factory_357,"China, Shenzhen",Pharmaceuticals,9622,Slag,998,Weekly,Silicon,Raw Material,High,Monthly
+Factory_208,"China, Shenzhen",Plastics,1712,Metal Scraps,31,Weekly,Bio-fuel,Composting,Medium,Weekly
+Factory_82,"Japan, Tokyo",Automotive,8082,Slag,267,Monthly,Heat Energy,Recycling,High,Weekly
+Factory_82,"India, Mumbai",Electronics,9596,Plastic Waste,380,Daily,Steel,Raw Material,Low,Monthly
+Factory_473,"USA, California",Food Processing,5210,Plastic Waste,648,Monthly,Steel,Energy Source,Low,Monthly
+Factory_402,"Japan, Tokyo",Textiles,5980,Slag,685,Monthly,Heat Energy,Energy Source,High,Weekly
+Factory_106,"Brazil, Sao Paulo",Automotive,2555,Slag,557,Weekly,Bio-fuel,Composting,Low,Monthly
+Factory_431,"India, Mumbai",Textiles,3305,Heat,279,Weekly,Silicon,Recycling,High,Weekly
+Factory_340,"USA, California",Metals,9324,Heat,896,Weekly,Organic Material,Composting,Low,Weekly
+Factory_184,"Germany, Berlin",Automotive,2965,Waste Chemicals,62,Daily,Recycled Plastic,Composting,Low,Daily
+Factory_198,"China, Shenzhen",Electronics,6844,Plastic Waste,390,Monthly,Bio-fuel,Energy Source,Low,Weekly
+Factory_372,"Japan, Tokyo",Food Processing,4106,Metal Scraps,827,Monthly,Bio-fuel,Raw Material,High,Weekly
+Factory_324,"UK, London",Food Processing,3374,Metal Scraps,473,Daily,Recycled Plastic,Recycling,Medium,Monthly
+Factory_239,"Germany, Berlin",Electronics,6023,Waste Chemicals,512,Weekly,Recycled Plastic,Composting,High,Monthly
+Factory_310,"Germany, Berlin",Electronics,7293,Heat,879,Daily,Organic Material,Raw Material,High,Weekly
+Factory_195,"Brazil, Sao Paulo",Automotive,2731,Heat,556,Monthly,Recycled Plastic,Recycling,Medium,Daily
+Factory_472,"India, Mumbai",Food Processing,6210,Waste Chemicals,697,Daily,Heat Energy,Energy Source,Medium,Monthly
+Factory_386,"UK, London",Textiles,4884,Heat,980,Monthly,Steel,Energy Source,Medium,Monthly
+Factory_177,"Brazil, Sao Paulo",Chemicals,7542,Heat,769,Daily,Heat Energy,Composting,Low,Monthly
+Factory_227,"China, Shenzhen",Chemicals,3504,Plastic Waste,882,Monthly,Bio-fuel,Recycling,Low,Daily
+Factory_37,"Japan, Tokyo",Plastics,9390,Metal Scraps,812,Monthly,Bio-fuel,Energy Source,Medium,Weekly
+Factory_459,"China, Shenzhen",Plastics,5558,Bio-waste,418,Daily,Silicon,Energy Source,Medium,Weekly
+Factory_256,"Brazil, Sao Paulo",Pharmaceuticals,8277,Heat,857,Weekly,Recycled Plastic,Recycling,Medium,Monthly
+Factory_418,"Brazil, Sao Paulo",Electronics,3085,Metal Scraps,327,Weekly,Recycled Plastic,Energy Source,Medium,Daily
+Factory_449,"India, Mumbai",Pharmaceuticals,5092,Bio-waste,69,Weekly,Steel,Energy Source,Medium,Weekly
+Factory_393,"Brazil, Sao Paulo",Chemicals,7080,Metal Scraps,232,Daily,Organic Material,Raw Material,High,Monthly
+Factory_381,"India, Mumbai",Metals,866,Bio-waste,825,Weekly,Silicon,Energy Source,Medium,Weekly
+Factory_77,"India, Mumbai",Metals,3643,Metal Scraps,606,Weekly,Silicon,Composting,Medium,Daily
+Factory_204,"India, Mumbai",Metals,396,Metal Scraps,611,Daily,Bio-fuel,Composting,Low,Monthly
+Factory_229,"South Africa, Johannesburg",Food Processing,1676,Slag,55,Daily,Bio-fuel,Composting,Low,Weekly
+Factory_290,"Japan, Tokyo",Pharmaceuticals,5240,Waste Chemicals,64,Monthly,Heat Energy,Energy Source,Medium,Daily
+Factory_292,"UK, London",Electronics,1580,Metal Scraps,847,Weekly,Silicon,Energy Source,Low,Monthly
+Factory_314,"China, Shenzhen",Food Processing,7563,Plastic Waste,981,Weekly,Steel,Energy Source,High,Monthly
+Factory_209,"India, Mumbai",Chemicals,2652,Plastic Waste,801,Daily,Steel,Raw Material,Low,Daily
+Factory_437,"China, Shenzhen",Chemicals,3694,Waste Chemicals,670,Weekly,Steel,Energy Source,High,Weekly
+Factory_495,"India, Mumbai",Electronics,3121,Bio-waste,233,Daily,Heat Energy,Composting,Medium,Weekly
+Factory_343,"Germany, Berlin",Textiles,3538,Bio-waste,908,Daily,Silicon,Energy Source,High,Daily
+Factory_22,"UK, London",Electronics,5868,Metal Scraps,103,Weekly,Organic Material,Composting,Low,Weekly
+Factory_428,"China, Shenzhen",Metals,3122,Plastic Waste,746,Weekly,Bio-fuel,Composting,Medium,Weekly
+Factory_359,"India, Mumbai",Electronics,1390,Waste Chemicals,841,Weekly,Organic Material,Raw Material,Low,Daily
+Factory_52,"USA, California",Chemicals,8371,Plastic Waste,215,Weekly,Steel,Energy Source,Low,Weekly
+Factory_374,"UK, London",Pharmaceuticals,2584,Waste Chemicals,177,Monthly,Recycled Plastic,Composting,Medium,Daily
+Factory_378,"China, Shenzhen",Electronics,1946,Metal Scraps,112,Daily,Organic Material,Recycling,Medium,Monthly
+Factory_190,"South Africa, Johannesburg",Automotive,3605,Metal Scraps,110,Weekly,Steel,Recycling,Low,Monthly
+Factory_286,"Japan, Tokyo",Pharmaceuticals,5539,Metal Scraps,183,Daily,Bio-fuel,Recycling,Medium,Daily
+Factory_35,"China, Shenzhen",Textiles,9408,Waste Chemicals,12,Daily,Recycled Plastic,Composting,Medium,Weekly
+Factory_401,"Brazil, Sao Paulo",Automotive,1568,Slag,866,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_59,"Germany, Berlin",Plastics,5689,Plastic Waste,267,Weekly,Bio-fuel,Energy Source,Medium,Weekly
+Factory_145,"South Africa, Johannesburg",Electronics,3923,Metal Scraps,932,Weekly,Steel,Recycling,Low,Weekly
+Factory_320,"UK, London",Chemicals,5385,Metal Scraps,903,Monthly,Steel,Recycling,Medium,Weekly
+Factory_438,"Germany, Berlin",Food Processing,476,Bio-waste,520,Daily,Steel,Recycling,Medium,Weekly
+Factory_157,"South Africa, Johannesburg",Textiles,6337,Slag,608,Weekly,Organic Material,Energy Source,High,Monthly
+Factory_198,"China, Shenzhen",Automotive,8618,Metal Scraps,129,Monthly,Silicon,Composting,Medium,Monthly
+Factory_73,"South Africa, Johannesburg",Chemicals,6987,Plastic Waste,568,Monthly,Organic Material,Recycling,Medium,Monthly
+Factory_396,"Japan, Tokyo",Textiles,8645,Bio-waste,32,Monthly,Bio-fuel,Composting,Medium,Monthly
+Factory_169,"USA, California",Textiles,6345,Waste Chemicals,524,Daily,Bio-fuel,Raw Material,Low,Daily
+Factory_252,"India, Mumbai",Food Processing,8562,Waste Chemicals,550,Weekly,Recycled Plastic,Recycling,Medium,Daily
+Factory_342,"India, Mumbai",Electronics,205,Plastic Waste,664,Daily,Steel,Energy Source,Low,Weekly
+Factory_313,"Japan, Tokyo",Chemicals,5126,Plastic Waste,708,Daily,Heat Energy,Recycling,Medium,Weekly
+Factory_197,"China, Shenzhen",Textiles,9101,Bio-waste,193,Monthly,Bio-fuel,Recycling,Medium,Daily
+Factory_91,"Japan, Tokyo",Textiles,4940,Metal Scraps,722,Weekly,Bio-fuel,Energy Source,Medium,Monthly
+Factory_162,"India, Mumbai",Textiles,5296,Slag,888,Monthly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_450,"India, Mumbai",Electronics,161,Waste Chemicals,62,Monthly,Heat Energy,Raw Material,Low,Weekly
+Factory_365,"Germany, Berlin",Automotive,4742,Metal Scraps,277,Monthly,Heat Energy,Composting,Low,Weekly
+Factory_267,"Japan, Tokyo",Food Processing,9293,Waste Chemicals,779,Weekly,Recycled Plastic,Energy Source,Low,Weekly
+Factory_121,"South Africa, Johannesburg",Food Processing,927,Waste Chemicals,816,Monthly,Organic Material,Composting,Medium,Monthly
+Factory_352,"USA, California",Food Processing,9394,Bio-waste,56,Weekly,Recycled Plastic,Recycling,High,Monthly
+Factory_117,"Germany, Berlin",Metals,9195,Plastic Waste,871,Daily,Heat Energy,Raw Material,Low,Daily
+Factory_114,"China, Shenzhen",Chemicals,7821,Waste Chemicals,55,Daily,Organic Material,Raw Material,Medium,Daily
+Factory_463,"China, Shenzhen",Plastics,2978,Bio-waste,469,Weekly,Heat Energy,Energy Source,High,Weekly
+Factory_109,"UK, London",Electronics,2395,Waste Chemicals,320,Monthly,Bio-fuel,Energy Source,High,Monthly
+Factory_321,"USA, California",Food Processing,159,Waste Chemicals,835,Monthly,Silicon,Composting,Medium,Daily
+Factory_208,"Germany, Berlin",Electronics,692,Bio-waste,629,Monthly,Silicon,Recycling,High,Daily
+Factory_293,"South Africa, Johannesburg",Electronics,455,Plastic Waste,384,Weekly,Recycled Plastic,Energy Source,Low,Weekly
+Factory_226,"South Africa, Johannesburg",Food Processing,1233,Waste Chemicals,266,Weekly,Recycled Plastic,Recycling,High,Daily
+Factory_4,"Germany, Berlin",Metals,9350,Metal Scraps,718,Monthly,Bio-fuel,Recycling,Low,Monthly
+Factory_19,"China, Shenzhen",Food Processing,9621,Heat,910,Daily,Steel,Composting,Medium,Weekly
+Factory_139,"India, Mumbai",Pharmaceuticals,1243,Slag,992,Monthly,Heat Energy,Composting,Medium,Daily
+Factory_329,"UK, London",Plastics,5586,Plastic Waste,989,Weekly,Silicon,Composting,Low,Daily
+Factory_304,"India, Mumbai",Automotive,5785,Heat,74,Monthly,Organic Material,Raw Material,Low,Daily
+Factory_374,"India, Mumbai",Chemicals,3491,Waste Chemicals,894,Monthly,Organic Material,Composting,Medium,Monthly
+Factory_97,"USA, California",Metals,2268,Bio-waste,864,Monthly,Recycled Plastic,Composting,Medium,Weekly
+Factory_374,"China, Shenzhen",Metals,6446,Metal Scraps,69,Daily,Silicon,Raw Material,Low,Monthly
+Factory_349,"China, Shenzhen",Textiles,1568,Waste Chemicals,56,Monthly,Silicon,Energy Source,Low,Monthly
+Factory_21,"India, Mumbai",Automotive,4711,Waste Chemicals,259,Monthly,Bio-fuel,Composting,Low,Weekly
+Factory_192,"Germany, Berlin",Food Processing,7066,Bio-waste,83,Daily,Silicon,Raw Material,Low,Daily
+Factory_189,"India, Mumbai",Chemicals,699,Heat,326,Weekly,Bio-fuel,Energy Source,Medium,Daily
+Factory_394,"USA, California",Textiles,3975,Waste Chemicals,549,Monthly,Organic Material,Recycling,Medium,Weekly
+Factory_70,"USA, California",Plastics,102,Bio-waste,425,Monthly,Heat Energy,Energy Source,Low,Daily
+Factory_276,"South Africa, Johannesburg",Food Processing,6614,Metal Scraps,390,Weekly,Silicon,Composting,Medium,Monthly
+Factory_469,"UK, London",Metals,5776,Heat,264,Monthly,Heat Energy,Raw Material,Low,Daily
+Factory_463,"Japan, Tokyo",Electronics,8387,Slag,412,Weekly,Bio-fuel,Composting,Low,Weekly
+Factory_396,"India, Mumbai",Textiles,3099,Slag,211,Weekly,Recycled Plastic,Energy Source,Low,Monthly
+Factory_103,"Brazil, Sao Paulo",Automotive,8134,Slag,847,Weekly,Steel,Raw Material,High,Weekly
+Factory_22,"Brazil, Sao Paulo",Plastics,5043,Metal Scraps,912,Weekly,Recycled Plastic,Composting,High,Daily
+Factory_277,"Germany, Berlin",Automotive,9094,Slag,236,Weekly,Bio-fuel,Composting,High,Monthly
+Factory_55,"Germany, Berlin",Pharmaceuticals,268,Waste Chemicals,979,Weekly,Recycled Plastic,Raw Material,Medium,Daily
+Factory_452,"Brazil, Sao Paulo",Food Processing,3315,Plastic Waste,473,Weekly,Steel,Composting,Medium,Monthly
+Factory_288,"South Africa, Johannesburg",Chemicals,7240,Slag,441,Monthly,Silicon,Energy Source,Low,Weekly
+Factory_361,"Germany, Berlin",Textiles,2550,Bio-waste,81,Daily,Heat Energy,Recycling,Low,Daily
+Factory_353,"South Africa, Johannesburg",Textiles,1635,Waste Chemicals,604,Daily,Recycled Plastic,Composting,High,Monthly
+Factory_311,"USA, California",Textiles,6412,Bio-waste,538,Weekly,Bio-fuel,Recycling,Low,Daily
+Factory_10,"India, Mumbai",Plastics,4389,Slag,261,Weekly,Steel,Raw Material,Medium,Daily
+Factory_450,"Brazil, Sao Paulo",Textiles,4900,Waste Chemicals,60,Weekly,Silicon,Raw Material,Low,Weekly
+Factory_433,"India, Mumbai",Textiles,8245,Slag,276,Weekly,Bio-fuel,Raw Material,Medium,Monthly
+Factory_26,"Japan, Tokyo",Automotive,4514,Slag,98,Weekly,Steel,Composting,Low,Daily
+Factory_353,"Germany, Berlin",Pharmaceuticals,4418,Slag,459,Monthly,Steel,Raw Material,Low,Weekly
+Factory_135,"Brazil, Sao Paulo",Textiles,6601,Bio-waste,768,Weekly,Steel,Energy Source,High,Daily
+Factory_382,"Germany, Berlin",Electronics,2939,Metal Scraps,217,Weekly,Organic Material,Composting,Low,Monthly
+Factory_352,"South Africa, Johannesburg",Food Processing,3530,Heat,605,Monthly,Organic Material,Raw Material,Medium,Daily
+Factory_409,"China, Shenzhen",Plastics,5882,Slag,654,Monthly,Organic Material,Recycling,High,Weekly
+Factory_52,"South Africa, Johannesburg",Electronics,5622,Plastic Waste,551,Weekly,Organic Material,Composting,High,Daily
+Factory_320,"UK, London",Textiles,9185,Slag,469,Monthly,Steel,Recycling,High,Daily
+Factory_291,"South Africa, Johannesburg",Automotive,3916,Metal Scraps,176,Monthly,Steel,Recycling,Low,Monthly
+Factory_360,"Germany, Berlin",Chemicals,4967,Slag,904,Weekly,Recycled Plastic,Recycling,Medium,Weekly
+Factory_308,"Brazil, Sao Paulo",Food Processing,9725,Waste Chemicals,736,Monthly,Heat Energy,Energy Source,Low,Daily
+Factory_427,"China, Shenzhen",Chemicals,1501,Heat,412,Daily,Organic Material,Raw Material,Medium,Monthly
+Factory_179,"Germany, Berlin",Chemicals,7394,Waste Chemicals,852,Weekly,Heat Energy,Recycling,High,Weekly
+Factory_71,"Japan, Tokyo",Electronics,8498,Plastic Waste,229,Monthly,Steel,Energy Source,Medium,Monthly
+Factory_432,"India, Mumbai",Plastics,5858,Slag,651,Weekly,Bio-fuel,Composting,Low,Weekly
+Factory_37,"South Africa, Johannesburg",Pharmaceuticals,7974,Waste Chemicals,14,Weekly,Recycled Plastic,Raw Material,High,Weekly
+Factory_431,"India, Mumbai",Automotive,4775,Waste Chemicals,73,Monthly,Heat Energy,Composting,Low,Weekly
+Factory_479,"Japan, Tokyo",Metals,3571,Metal Scraps,965,Weekly,Steel,Recycling,Low,Daily
+Factory_246,"South Africa, Johannesburg",Electronics,4650,Slag,750,Daily,Bio-fuel,Recycling,Medium,Daily
+Factory_116,"USA, California",Pharmaceuticals,8101,Metal Scraps,764,Daily,Organic Material,Raw Material,High,Monthly
+Factory_204,"India, Mumbai",Metals,4107,Heat,409,Monthly,Silicon,Energy Source,Low,Weekly
+Factory_196,"UK, London",Pharmaceuticals,236,Heat,344,Monthly,Heat Energy,Composting,High,Daily
+Factory_7,"USA, California",Plastics,6789,Metal Scraps,407,Daily,Silicon,Recycling,Low,Monthly
+Factory_385,"India, Mumbai",Metals,9994,Plastic Waste,962,Monthly,Steel,Raw Material,High,Monthly
+Factory_426,"Germany, Berlin",Food Processing,6848,Metal Scraps,489,Weekly,Bio-fuel,Composting,High,Weekly
+Factory_254,"USA, California",Plastics,887,Bio-waste,996,Daily,Steel,Raw Material,Medium,Monthly
+Factory_273,"Germany, Berlin",Automotive,2408,Bio-waste,448,Daily,Heat Energy,Recycling,Medium,Daily
+Factory_215,"China, Shenzhen",Food Processing,5889,Slag,779,Weekly,Bio-fuel,Energy Source,Medium,Weekly
+Factory_132,"Germany, Berlin",Plastics,3456,Slag,445,Daily,Heat Energy,Recycling,High,Weekly
+Factory_394,"South Africa, Johannesburg",Automotive,7150,Heat,116,Daily,Heat Energy,Raw Material,High,Daily
+Factory_284,"Germany, Berlin",Pharmaceuticals,3752,Bio-waste,968,Daily,Heat Energy,Raw Material,High,Weekly
+Factory_282,"USA, California",Metals,6249,Waste Chemicals,506,Daily,Heat Energy,Energy Source,High,Daily
+Factory_448,"India, Mumbai",Automotive,6611,Metal Scraps,571,Daily,Heat Energy,Composting,High,Weekly
+Factory_220,"Germany, Berlin",Metals,6675,Bio-waste,523,Daily,Recycled Plastic,Recycling,Low,Weekly
+Factory_99,"South Africa, Johannesburg",Pharmaceuticals,8809,Waste Chemicals,182,Monthly,Silicon,Recycling,Low,Monthly
+Factory_216,"China, Shenzhen",Textiles,4720,Waste Chemicals,745,Daily,Silicon,Recycling,High,Monthly
+Factory_406,"Brazil, Sao Paulo",Metals,8864,Metal Scraps,247,Monthly,Recycled Plastic,Composting,High,Monthly
+Factory_236,"Germany, Berlin",Pharmaceuticals,9711,Metal Scraps,613,Monthly,Organic Material,Recycling,Low,Daily
+Factory_97,"USA, California",Chemicals,6115,Bio-waste,872,Monthly,Heat Energy,Energy Source,High,Daily
+Factory_442,"Germany, Berlin",Chemicals,7406,Metal Scraps,993,Monthly,Heat Energy,Raw Material,Medium,Monthly
+Factory_420,"UK, London",Plastics,2133,Slag,11,Weekly,Heat Energy,Raw Material,Medium,Monthly
+Factory_420,"UK, London",Chemicals,7375,Slag,446,Monthly,Bio-fuel,Recycling,High,Weekly
+Factory_72,"India, Mumbai",Textiles,610,Bio-waste,752,Weekly,Silicon,Energy Source,Low,Daily
+Factory_499,"South Africa, Johannesburg",Food Processing,9557,Bio-waste,545,Daily,Organic Material,Energy Source,Low,Daily
+Factory_113,"Brazil, Sao Paulo",Plastics,9305,Heat,474,Weekly,Organic Material,Energy Source,Medium,Weekly
+Factory_282,"India, Mumbai",Plastics,7605,Waste Chemicals,735,Monthly,Recycled Plastic,Energy Source,Low,Monthly
+Factory_153,"China, Shenzhen",Pharmaceuticals,6225,Plastic Waste,914,Weekly,Organic Material,Energy Source,High,Monthly
+Factory_46,"UK, London",Electronics,7828,Waste Chemicals,439,Daily,Heat Energy,Composting,High,Weekly
+Factory_423,"South Africa, Johannesburg",Automotive,8114,Bio-waste,200,Monthly,Steel,Composting,High,Daily
+Factory_197,"India, Mumbai",Food Processing,6268,Metal Scraps,308,Daily,Recycled Plastic,Composting,Low,Monthly
+Factory_439,"Japan, Tokyo",Plastics,3446,Metal Scraps,171,Monthly,Heat Energy,Recycling,Medium,Daily
+Factory_124,"Germany, Berlin",Food Processing,9121,Bio-waste,189,Monthly,Silicon,Recycling,High,Daily
+Factory_101,"China, Shenzhen",Metals,8743,Plastic Waste,775,Monthly,Organic Material,Energy Source,High,Weekly
+Factory_481,"South Africa, Johannesburg",Textiles,9607,Plastic Waste,284,Weekly,Recycled Plastic,Raw Material,Low,Daily
+Factory_196,"USA, California",Electronics,7294,Heat,47,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_202,"South Africa, Johannesburg",Plastics,788,Bio-waste,290,Daily,Recycled Plastic,Recycling,Low,Monthly
+Factory_209,"Brazil, Sao Paulo",Pharmaceuticals,8570,Slag,142,Monthly,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_179,"South Africa, Johannesburg",Automotive,8582,Slag,700,Daily,Organic Material,Recycling,Low,Daily
+Factory_401,"USA, California",Chemicals,3203,Slag,221,Weekly,Organic Material,Energy Source,Medium,Daily
+Factory_433,"Brazil, Sao Paulo",Plastics,9053,Heat,412,Daily,Heat Energy,Composting,Low,Weekly
+Factory_315,"UK, London",Pharmaceuticals,5213,Plastic Waste,179,Monthly,Silicon,Energy Source,High,Weekly
+Factory_481,"China, Shenzhen",Automotive,2153,Plastic Waste,639,Monthly,Bio-fuel,Raw Material,High,Daily
+Factory_291,"USA, California",Food Processing,3068,Slag,845,Monthly,Steel,Energy Source,Low,Weekly
+Factory_2,"Brazil, Sao Paulo",Electronics,3087,Slag,211,Monthly,Recycled Plastic,Recycling,Medium,Daily
+Factory_144,"Japan, Tokyo",Food Processing,7571,Plastic Waste,542,Daily,Steel,Energy Source,High,Monthly
+Factory_348,"Germany, Berlin",Chemicals,9633,Heat,546,Weekly,Steel,Composting,High,Daily
+Factory_478,"China, Shenzhen",Plastics,7619,Metal Scraps,772,Weekly,Recycled Plastic,Recycling,Low,Daily
+Factory_170,"UK, London",Electronics,8050,Waste Chemicals,241,Daily,Bio-fuel,Energy Source,Medium,Daily
+Factory_320,"South Africa, Johannesburg",Electronics,2119,Heat,637,Monthly,Heat Energy,Raw Material,Medium,Daily
+Factory_500,"UK, London",Metals,1475,Heat,922,Daily,Steel,Recycling,High,Monthly
+Factory_242,"Germany, Berlin",Pharmaceuticals,8934,Plastic Waste,76,Weekly,Bio-fuel,Recycling,Low,Daily
+Factory_296,"South Africa, Johannesburg",Food Processing,2617,Bio-waste,58,Weekly,Bio-fuel,Energy Source,Medium,Weekly
+Factory_393,"USA, California",Automotive,2177,Heat,598,Daily,Heat Energy,Recycling,Medium,Weekly
+Factory_443,"China, Shenzhen",Chemicals,2502,Heat,78,Daily,Heat Energy,Raw Material,Low,Monthly
+Factory_451,"USA, California",Textiles,8985,Waste Chemicals,146,Monthly,Heat Energy,Composting,High,Daily
+Factory_193,"Brazil, Sao Paulo",Food Processing,8217,Heat,152,Monthly,Recycled Plastic,Composting,Low,Daily
+Factory_235,"USA, California",Metals,9896,Heat,43,Monthly,Organic Material,Energy Source,High,Daily
+Factory_68,"South Africa, Johannesburg",Food Processing,7865,Heat,712,Daily,Recycled Plastic,Raw Material,High,Weekly
+Factory_433,"South Africa, Johannesburg",Electronics,4639,Metal Scraps,111,Daily,Bio-fuel,Energy Source,High,Monthly
+Factory_373,"USA, California",Chemicals,5739,Waste Chemicals,648,Weekly,Bio-fuel,Raw Material,Medium,Weekly
+Factory_459,"UK, London",Plastics,2016,Plastic Waste,124,Weekly,Organic Material,Recycling,High,Weekly
+Factory_171,"Germany, Berlin",Automotive,2900,Bio-waste,876,Daily,Silicon,Raw Material,Low,Weekly
+Factory_108,"China, Shenzhen",Metals,7745,Plastic Waste,188,Daily,Steel,Energy Source,High,Daily
+Factory_285,"UK, London",Metals,2952,Metal Scraps,127,Monthly,Recycled Plastic,Recycling,Medium,Monthly
+Factory_171,"Brazil, Sao Paulo",Textiles,7934,Bio-waste,237,Weekly,Bio-fuel,Energy Source,High,Weekly
+Factory_454,"South Africa, Johannesburg",Pharmaceuticals,1452,Bio-waste,664,Weekly,Steel,Recycling,Low,Weekly
+Factory_93,"UK, London",Food Processing,7183,Waste Chemicals,506,Monthly,Silicon,Recycling,Low,Weekly
+Factory_91,"UK, London",Electronics,2593,Plastic Waste,19,Weekly,Recycled Plastic,Raw Material,Low,Daily
+Factory_188,"Brazil, Sao Paulo",Plastics,8306,Waste Chemicals,160,Monthly,Steel,Composting,Medium,Daily
+Factory_417,"South Africa, Johannesburg",Plastics,6779,Heat,308,Weekly,Heat Energy,Recycling,Medium,Weekly
+Factory_78,"South Africa, Johannesburg",Textiles,8758,Bio-waste,589,Monthly,Bio-fuel,Recycling,Low,Monthly
+Factory_138,"China, Shenzhen",Automotive,7772,Metal Scraps,175,Weekly,Recycled Plastic,Raw Material,Medium,Daily
+Factory_252,"Brazil, Sao Paulo",Textiles,3552,Slag,872,Monthly,Steel,Raw Material,Medium,Daily
+Factory_1,"USA, California",Plastics,1303,Slag,631,Monthly,Bio-fuel,Raw Material,High,Weekly
+Factory_56,"India, Mumbai",Chemicals,2407,Slag,869,Daily,Organic Material,Raw Material,Medium,Daily
+Factory_423,"India, Mumbai",Textiles,6469,Waste Chemicals,498,Weekly,Bio-fuel,Energy Source,High,Weekly
+Factory_223,"China, Shenzhen",Textiles,1043,Plastic Waste,318,Monthly,Organic Material,Composting,Medium,Weekly
+Factory_149,"China, Shenzhen",Textiles,2225,Plastic Waste,915,Daily,Steel,Recycling,Low,Weekly
+Factory_16,"South Africa, Johannesburg",Food Processing,119,Metal Scraps,173,Weekly,Recycled Plastic,Recycling,High,Monthly
+Factory_40,"China, Shenzhen",Chemicals,625,Metal Scraps,752,Monthly,Silicon,Raw Material,High,Monthly
+Factory_402,"USA, California",Metals,4130,Waste Chemicals,953,Daily,Heat Energy,Energy Source,Low,Daily
+Factory_192,"India, Mumbai",Plastics,7420,Waste Chemicals,576,Weekly,Bio-fuel,Raw Material,Medium,Daily
+Factory_105,"India, Mumbai",Plastics,9106,Bio-waste,513,Daily,Organic Material,Energy Source,Medium,Weekly
+Factory_474,"Brazil, Sao Paulo",Textiles,7687,Plastic Waste,557,Daily,Organic Material,Raw Material,Medium,Daily
+Factory_251,"Brazil, Sao Paulo",Electronics,4399,Plastic Waste,645,Daily,Heat Energy,Composting,Medium,Weekly
+Factory_65,"South Africa, Johannesburg",Plastics,4323,Bio-waste,661,Daily,Organic Material,Raw Material,High,Weekly
+Factory_9,"India, Mumbai",Food Processing,3672,Heat,399,Weekly,Bio-fuel,Raw Material,Medium,Daily
+Factory_342,"Japan, Tokyo",Metals,4957,Waste Chemicals,874,Weekly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_192,"USA, California",Textiles,3810,Plastic Waste,868,Daily,Organic Material,Composting,Medium,Daily
+Factory_150,"Brazil, Sao Paulo",Automotive,8398,Bio-waste,505,Monthly,Organic Material,Composting,Medium,Weekly
+Factory_315,"South Africa, Johannesburg",Textiles,384,Bio-waste,826,Monthly,Steel,Raw Material,Low,Weekly
+Factory_414,"China, Shenzhen",Electronics,6858,Metal Scraps,396,Daily,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_179,"USA, California",Automotive,9043,Heat,490,Monthly,Organic Material,Raw Material,Low,Monthly
+Factory_190,"South Africa, Johannesburg",Automotive,244,Slag,21,Monthly,Steel,Energy Source,High,Monthly
+Factory_94,"South Africa, Johannesburg",Chemicals,6166,Metal Scraps,542,Weekly,Silicon,Composting,High,Monthly
+Factory_255,"Japan, Tokyo",Electronics,2503,Waste Chemicals,431,Monthly,Steel,Energy Source,High,Weekly
+Factory_490,"Germany, Berlin",Textiles,8315,Metal Scraps,630,Weekly,Steel,Composting,High,Daily
+Factory_271,"Germany, Berlin",Plastics,3911,Bio-waste,712,Daily,Silicon,Energy Source,Medium,Monthly
+Factory_307,"Brazil, Sao Paulo",Textiles,2532,Heat,987,Monthly,Recycled Plastic,Composting,High,Weekly
+Factory_225,"USA, California",Pharmaceuticals,5562,Slag,997,Daily,Heat Energy,Recycling,High,Monthly
+Factory_332,"India, Mumbai",Food Processing,2881,Waste Chemicals,775,Daily,Silicon,Raw Material,Medium,Monthly
+Factory_472,"UK, London",Food Processing,9560,Bio-waste,873,Daily,Heat Energy,Composting,Medium,Weekly
+Factory_315,"South Africa, Johannesburg",Pharmaceuticals,238,Waste Chemicals,425,Monthly,Recycled Plastic,Raw Material,Low,Weekly
+Factory_192,"India, Mumbai",Metals,4504,Slag,251,Daily,Bio-fuel,Energy Source,Low,Monthly
+Factory_130,"Japan, Tokyo",Electronics,3285,Plastic Waste,249,Weekly,Bio-fuel,Composting,Medium,Monthly
+Factory_50,"UK, London",Metals,324,Waste Chemicals,554,Daily,Recycled Plastic,Energy Source,Low,Weekly
+Factory_331,"India, Mumbai",Pharmaceuticals,758,Plastic Waste,949,Daily,Heat Energy,Raw Material,Low,Weekly
+Factory_477,"India, Mumbai",Electronics,842,Bio-waste,343,Weekly,Steel,Energy Source,High,Monthly
+Factory_311,"USA, California",Plastics,9487,Waste Chemicals,940,Daily,Steel,Energy Source,Low,Daily
+Factory_227,"Japan, Tokyo",Automotive,4368,Plastic Waste,967,Monthly,Recycled Plastic,Composting,Medium,Weekly
+Factory_76,"India, Mumbai",Chemicals,6802,Metal Scraps,466,Daily,Steel,Raw Material,Medium,Monthly
+Factory_375,"Germany, Berlin",Food Processing,3849,Slag,265,Weekly,Steel,Raw Material,Low,Daily
+Factory_349,"Brazil, Sao Paulo",Automotive,2494,Metal Scraps,461,Weekly,Steel,Raw Material,High,Weekly
+Factory_79,"Germany, Berlin",Food Processing,3042,Bio-waste,538,Weekly,Heat Energy,Raw Material,Medium,Monthly
+Factory_336,"India, Mumbai",Metals,1399,Slag,643,Weekly,Recycled Plastic,Recycling,High,Weekly
+Factory_305,"USA, California",Pharmaceuticals,127,Waste Chemicals,687,Weekly,Silicon,Energy Source,Medium,Daily
+Factory_140,"Japan, Tokyo",Plastics,3372,Plastic Waste,203,Daily,Steel,Raw Material,Low,Monthly
+Factory_349,"South Africa, Johannesburg",Pharmaceuticals,1828,Plastic Waste,663,Daily,Heat Energy,Composting,Medium,Daily
+Factory_308,"South Africa, Johannesburg",Metals,8838,Heat,71,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_71,"Brazil, Sao Paulo",Textiles,1700,Waste Chemicals,144,Daily,Recycled Plastic,Recycling,High,Monthly
+Factory_4,"Japan, Tokyo",Electronics,7397,Waste Chemicals,417,Monthly,Organic Material,Composting,High,Daily
+Factory_360,"South Africa, Johannesburg",Textiles,1321,Bio-waste,809,Monthly,Silicon,Composting,Low,Monthly
+Factory_468,"South Africa, Johannesburg",Food Processing,723,Plastic Waste,621,Daily,Organic Material,Raw Material,Low,Daily
+Factory_290,"USA, California",Textiles,9221,Metal Scraps,470,Daily,Heat Energy,Recycling,High,Daily
+Factory_485,"South Africa, Johannesburg",Chemicals,6134,Heat,540,Weekly,Bio-fuel,Raw Material,High,Monthly
+Factory_364,"UK, London",Metals,6604,Plastic Waste,696,Monthly,Heat Energy,Energy Source,High,Weekly
+Factory_372,"India, Mumbai",Electronics,4419,Heat,468,Monthly,Silicon,Energy Source,Low,Monthly
+Factory_331,"UK, London",Food Processing,2895,Plastic Waste,255,Monthly,Recycled Plastic,Composting,Low,Monthly
+Factory_365,"China, Shenzhen",Pharmaceuticals,2164,Plastic Waste,898,Monthly,Recycled Plastic,Raw Material,High,Weekly
+Factory_330,"UK, London",Textiles,6252,Slag,13,Weekly,Recycled Plastic,Composting,Low,Monthly
+Factory_72,"USA, California",Textiles,836,Waste Chemicals,964,Daily,Steel,Energy Source,Low,Weekly
+Factory_61,"South Africa, Johannesburg",Electronics,4203,Slag,794,Monthly,Heat Energy,Raw Material,High,Monthly
+Factory_447,"South Africa, Johannesburg",Textiles,6339,Slag,426,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_265,"China, Shenzhen",Plastics,830,Waste Chemicals,813,Daily,Steel,Energy Source,Low,Monthly
+Factory_254,"USA, California",Metals,8338,Slag,470,Daily,Steel,Recycling,Low,Daily
+Factory_429,"Brazil, Sao Paulo",Electronics,5447,Metal Scraps,495,Monthly,Heat Energy,Energy Source,Medium,Daily
+Factory_87,"Germany, Berlin",Metals,1394,Plastic Waste,388,Daily,Steel,Composting,Low,Daily
+Factory_203,"Brazil, Sao Paulo",Automotive,6426,Plastic Waste,725,Daily,Recycled Plastic,Energy Source,Medium,Daily
+Factory_175,"India, Mumbai",Chemicals,4064,Bio-waste,316,Monthly,Heat Energy,Recycling,High,Monthly
+Factory_346,"South Africa, Johannesburg",Textiles,5840,Waste Chemicals,630,Daily,Steel,Recycling,Low,Monthly
+Factory_396,"Brazil, Sao Paulo",Pharmaceuticals,8537,Bio-waste,837,Daily,Heat Energy,Energy Source,Low,Daily
+Factory_451,"UK, London",Plastics,9783,Bio-waste,526,Daily,Bio-fuel,Raw Material,Medium,Weekly
+Factory_345,"Germany, Berlin",Automotive,9241,Waste Chemicals,765,Daily,Organic Material,Recycling,High,Weekly
+Factory_414,"Brazil, Sao Paulo",Automotive,8866,Plastic Waste,558,Monthly,Steel,Raw Material,High,Daily
+Factory_32,"China, Shenzhen",Automotive,228,Plastic Waste,889,Weekly,Organic Material,Raw Material,High,Daily
+Factory_224,"Germany, Berlin",Electronics,899,Metal Scraps,861,Daily,Steel,Raw Material,Low,Weekly
+Factory_451,"Brazil, Sao Paulo",Electronics,9393,Slag,951,Daily,Heat Energy,Composting,High,Monthly
+Factory_330,"UK, London",Electronics,4183,Plastic Waste,832,Monthly,Recycled Plastic,Composting,Low,Monthly
+Factory_410,"Brazil, Sao Paulo",Automotive,8355,Plastic Waste,125,Weekly,Silicon,Recycling,Low,Monthly
+Factory_351,"Germany, Berlin",Plastics,5286,Slag,847,Daily,Steel,Raw Material,Low,Monthly
+Factory_335,"South Africa, Johannesburg",Electronics,5564,Bio-waste,772,Monthly,Organic Material,Composting,Medium,Weekly
+Factory_47,"UK, London",Electronics,6149,Heat,374,Daily,Recycled Plastic,Energy Source,Low,Monthly
+Factory_397,"Germany, Berlin",Electronics,341,Slag,259,Weekly,Silicon,Raw Material,Low,Weekly
+Factory_116,"UK, London",Pharmaceuticals,4995,Slag,574,Daily,Heat Energy,Energy Source,Medium,Daily
+Factory_373,"USA, California",Textiles,5783,Plastic Waste,460,Monthly,Heat Energy,Energy Source,Low,Daily
+Factory_99,"UK, London",Metals,7557,Plastic Waste,867,Daily,Steel,Energy Source,High,Monthly
+Factory_404,"China, Shenzhen",Automotive,7195,Bio-waste,799,Daily,Heat Energy,Raw Material,Low,Weekly
+Factory_103,"India, Mumbai",Pharmaceuticals,6457,Slag,267,Monthly,Organic Material,Recycling,High,Monthly
+Factory_4,"Japan, Tokyo",Electronics,9159,Metal Scraps,212,Daily,Silicon,Composting,High,Monthly
+Factory_19,"USA, California",Plastics,2558,Slag,265,Monthly,Steel,Composting,Low,Monthly
+Factory_159,"Japan, Tokyo",Pharmaceuticals,6629,Heat,91,Daily,Organic Material,Energy Source,Low,Monthly
+Factory_177,"USA, California",Automotive,698,Plastic Waste,493,Daily,Heat Energy,Recycling,Medium,Daily
+Factory_2,"UK, London",Food Processing,8741,Heat,696,Monthly,Silicon,Recycling,High,Daily
+Factory_212,"Brazil, Sao Paulo",Electronics,7275,Metal Scraps,418,Daily,Bio-fuel,Raw Material,Medium,Monthly
+Factory_430,"Brazil, Sao Paulo",Chemicals,8767,Slag,771,Daily,Steel,Raw Material,Low,Daily
+Factory_264,"India, Mumbai",Textiles,688,Bio-waste,688,Monthly,Bio-fuel,Raw Material,Low,Weekly
+Factory_219,"USA, California",Automotive,373,Slag,876,Monthly,Silicon,Raw Material,Medium,Monthly
+Factory_365,"China, Shenzhen",Chemicals,3414,Slag,870,Daily,Organic Material,Recycling,Low,Daily
+Factory_325,"Brazil, Sao Paulo",Pharmaceuticals,4925,Bio-waste,411,Daily,Heat Energy,Raw Material,Low,Monthly
+Factory_76,"Brazil, Sao Paulo",Automotive,7372,Waste Chemicals,764,Daily,Heat Energy,Raw Material,Medium,Daily
+Factory_203,"USA, California",Food Processing,4119,Bio-waste,283,Weekly,Bio-fuel,Raw Material,Low,Monthly
+Factory_475,"China, Shenzhen",Electronics,5579,Plastic Waste,242,Daily,Organic Material,Recycling,Low,Daily
+Factory_454,"UK, London",Electronics,970,Waste Chemicals,297,Weekly,Recycled Plastic,Recycling,High,Monthly
+Factory_347,"Germany, Berlin",Plastics,9089,Metal Scraps,61,Weekly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_37,"China, Shenzhen",Metals,7091,Metal Scraps,484,Monthly,Silicon,Composting,High,Weekly
+Factory_160,"USA, California",Textiles,8014,Bio-waste,737,Weekly,Silicon,Energy Source,Low,Weekly
+Factory_103,"India, Mumbai",Automotive,1014,Bio-waste,762,Weekly,Recycled Plastic,Composting,Low,Monthly
+Factory_318,"Germany, Berlin",Food Processing,5979,Plastic Waste,516,Weekly,Silicon,Energy Source,High,Daily
+Factory_314,"India, Mumbai",Plastics,2957,Metal Scraps,795,Monthly,Silicon,Composting,Medium,Monthly
+Factory_146,"UK, London",Pharmaceuticals,2947,Slag,311,Weekly,Steel,Recycling,High,Monthly
+Factory_189,"Germany, Berlin",Chemicals,3926,Waste Chemicals,312,Weekly,Silicon,Recycling,High,Monthly
+Factory_479,"Brazil, Sao Paulo",Metals,1614,Slag,557,Weekly,Organic Material,Energy Source,Medium,Weekly
+Factory_56,"UK, London",Textiles,2957,Plastic Waste,668,Daily,Heat Energy,Raw Material,Medium,Weekly
+Factory_31,"China, Shenzhen",Plastics,6943,Heat,440,Weekly,Silicon,Energy Source,High,Daily
+Factory_88,"USA, California",Automotive,4534,Slag,984,Daily,Organic Material,Raw Material,Medium,Daily
+Factory_146,"Brazil, Sao Paulo",Automotive,6030,Metal Scraps,674,Daily,Steel,Raw Material,Low,Monthly
+Factory_279,"Brazil, Sao Paulo",Textiles,1810,Bio-waste,174,Daily,Bio-fuel,Raw Material,Medium,Weekly
+Factory_221,"Brazil, Sao Paulo",Metals,911,Heat,525,Daily,Silicon,Raw Material,High,Weekly
+Factory_237,"UK, London",Plastics,8748,Metal Scraps,395,Daily,Heat Energy,Raw Material,Medium,Daily
+Factory_260,"USA, California",Textiles,3517,Slag,802,Weekly,Steel,Composting,Low,Weekly
+Factory_377,"Germany, Berlin",Pharmaceuticals,6210,Plastic Waste,681,Monthly,Silicon,Energy Source,Low,Daily
+Factory_442,"India, Mumbai",Chemicals,7292,Bio-waste,110,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_194,"Japan, Tokyo",Electronics,6665,Waste Chemicals,405,Monthly,Organic Material,Recycling,High,Monthly
+Factory_57,"China, Shenzhen",Electronics,7884,Heat,105,Weekly,Silicon,Recycling,High,Monthly
+Factory_52,"China, Shenzhen",Chemicals,3407,Metal Scraps,122,Monthly,Bio-fuel,Composting,Low,Daily
+Factory_30,"Brazil, Sao Paulo",Plastics,6335,Metal Scraps,918,Daily,Heat Energy,Raw Material,Low,Weekly
+Factory_49,"Brazil, Sao Paulo",Metals,4979,Waste Chemicals,401,Daily,Organic Material,Composting,Low,Daily
+Factory_451,"South Africa, Johannesburg",Electronics,1307,Plastic Waste,426,Weekly,Bio-fuel,Composting,Low,Weekly
+Factory_122,"China, Shenzhen",Metals,7657,Slag,62,Monthly,Steel,Composting,Medium,Weekly
+Factory_167,"India, Mumbai",Electronics,5453,Slag,732,Weekly,Silicon,Composting,High,Monthly
+Factory_458,"USA, California",Food Processing,9712,Waste Chemicals,411,Daily,Silicon,Recycling,Medium,Daily
+Factory_143,"South Africa, Johannesburg",Automotive,2644,Bio-waste,398,Daily,Heat Energy,Composting,Medium,Monthly
+Factory_461,"South Africa, Johannesburg",Electronics,9413,Slag,467,Weekly,Organic Material,Recycling,Medium,Monthly
+Factory_192,"USA, California",Plastics,9175,Plastic Waste,965,Monthly,Steel,Energy Source,High,Daily
+Factory_486,"UK, London",Chemicals,3548,Heat,632,Weekly,Bio-fuel,Energy Source,High,Monthly
+Factory_343,"China, Shenzhen",Food Processing,4359,Bio-waste,637,Weekly,Heat Energy,Recycling,Low,Monthly
+Factory_390,"Japan, Tokyo",Electronics,2586,Slag,371,Daily,Recycled Plastic,Energy Source,High,Weekly
+Factory_81,"Japan, Tokyo",Plastics,4994,Metal Scraps,13,Monthly,Organic Material,Composting,Low,Monthly
+Factory_240,"Japan, Tokyo",Plastics,3505,Heat,816,Daily,Organic Material,Recycling,High,Daily
+Factory_10,"South Africa, Johannesburg",Electronics,7971,Plastic Waste,592,Daily,Silicon,Recycling,Low,Daily
+Factory_106,"India, Mumbai",Automotive,9918,Waste Chemicals,378,Daily,Heat Energy,Composting,Medium,Weekly
+Factory_323,"USA, California",Electronics,5221,Slag,860,Weekly,Recycled Plastic,Energy Source,Medium,Weekly
+Factory_204,"South Africa, Johannesburg",Textiles,1002,Slag,838,Daily,Bio-fuel,Recycling,High,Monthly
+Factory_6,"UK, London",Textiles,610,Metal Scraps,857,Monthly,Silicon,Raw Material,High,Weekly
+Factory_453,"Brazil, Sao Paulo",Automotive,8496,Heat,914,Monthly,Bio-fuel,Recycling,High,Monthly
+Factory_61,"UK, London",Electronics,7969,Slag,890,Weekly,Organic Material,Energy Source,Medium,Weekly
+Factory_43,"India, Mumbai",Food Processing,4016,Slag,180,Daily,Organic Material,Energy Source,Medium,Monthly
+Factory_138,"China, Shenzhen",Electronics,1592,Slag,217,Weekly,Heat Energy,Recycling,Low,Daily
+Factory_211,"USA, California",Food Processing,791,Slag,53,Weekly,Silicon,Energy Source,Medium,Weekly
+Factory_469,"Brazil, Sao Paulo",Pharmaceuticals,1943,Plastic Waste,677,Daily,Bio-fuel,Energy Source,Low,Weekly
+Factory_422,"South Africa, Johannesburg",Electronics,4717,Slag,149,Monthly,Organic Material,Energy Source,High,Monthly
+Factory_482,"Japan, Tokyo",Automotive,805,Waste Chemicals,491,Weekly,Recycled Plastic,Recycling,Low,Daily
+Factory_66,"Japan, Tokyo",Plastics,5908,Slag,592,Daily,Steel,Raw Material,Medium,Daily
+Factory_56,"South Africa, Johannesburg",Textiles,3166,Waste Chemicals,416,Daily,Heat Energy,Raw Material,Low,Monthly
+Factory_101,"Germany, Berlin",Plastics,7717,Metal Scraps,562,Weekly,Recycled Plastic,Raw Material,Low,Daily
+Factory_156,"Brazil, Sao Paulo",Metals,5564,Waste Chemicals,392,Daily,Heat Energy,Composting,Medium,Weekly
+Factory_384,"Japan, Tokyo",Pharmaceuticals,5784,Waste Chemicals,452,Weekly,Heat Energy,Raw Material,Low,Daily
+Factory_392,"Germany, Berlin",Chemicals,8637,Plastic Waste,849,Weekly,Heat Energy,Recycling,Medium,Monthly
+Factory_429,"Brazil, Sao Paulo",Food Processing,7456,Metal Scraps,622,Daily,Bio-fuel,Recycling,Low,Monthly
+Factory_364,"Brazil, Sao Paulo",Metals,8096,Waste Chemicals,349,Monthly,Heat Energy,Composting,High,Weekly
+Factory_110,"Brazil, Sao Paulo",Plastics,5243,Waste Chemicals,176,Monthly,Bio-fuel,Composting,High,Daily
+Factory_440,"USA, California",Automotive,2545,Waste Chemicals,487,Monthly,Organic Material,Recycling,High,Daily
+Factory_148,"South Africa, Johannesburg",Metals,8079,Plastic Waste,348,Weekly,Steel,Raw Material,High,Daily
+Factory_362,"China, Shenzhen",Textiles,3771,Plastic Waste,231,Daily,Silicon,Recycling,Medium,Monthly
+Factory_377,"India, Mumbai",Chemicals,5561,Bio-waste,802,Daily,Silicon,Recycling,Medium,Daily
+Factory_236,"Brazil, Sao Paulo",Textiles,1106,Plastic Waste,461,Daily,Steel,Recycling,Low,Weekly
+Factory_256,"China, Shenzhen",Automotive,2574,Plastic Waste,251,Weekly,Steel,Recycling,Medium,Monthly
+Factory_324,"China, Shenzhen",Chemicals,5895,Slag,785,Daily,Organic Material,Raw Material,Low,Monthly
+Factory_359,"Brazil, Sao Paulo",Chemicals,7750,Metal Scraps,933,Weekly,Organic Material,Recycling,Medium,Weekly
+Factory_103,"China, Shenzhen",Textiles,9764,Waste Chemicals,829,Daily,Recycled Plastic,Recycling,Low,Monthly
+Factory_109,"Germany, Berlin",Metals,4457,Heat,146,Monthly,Silicon,Raw Material,Medium,Weekly
+Factory_189,"Brazil, Sao Paulo",Textiles,876,Waste Chemicals,695,Weekly,Steel,Composting,Medium,Monthly
+Factory_180,"Japan, Tokyo",Chemicals,4284,Waste Chemicals,871,Daily,Bio-fuel,Composting,Medium,Weekly
+Factory_259,"South Africa, Johannesburg",Automotive,3713,Heat,996,Weekly,Steel,Recycling,High,Weekly
+Factory_217,"Japan, Tokyo",Automotive,8553,Metal Scraps,719,Weekly,Steel,Recycling,Low,Monthly
+Factory_144,"Brazil, Sao Paulo",Plastics,2900,Metal Scraps,284,Daily,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_362,"Brazil, Sao Paulo",Electronics,9674,Metal Scraps,88,Daily,Organic Material,Composting,High,Monthly
+Factory_470,"South Africa, Johannesburg",Electronics,6678,Metal Scraps,856,Monthly,Heat Energy,Energy Source,Medium,Weekly
+Factory_422,"India, Mumbai",Chemicals,5401,Heat,585,Monthly,Heat Energy,Raw Material,Low,Monthly
+Factory_338,"India, Mumbai",Electronics,465,Plastic Waste,582,Weekly,Steel,Recycling,High,Daily
+Factory_391,"USA, California",Textiles,4680,Heat,922,Daily,Silicon,Raw Material,Low,Weekly
+Factory_222,"China, Shenzhen",Food Processing,903,Metal Scraps,422,Monthly,Organic Material,Energy Source,Low,Monthly
+Factory_191,"Brazil, Sao Paulo",Food Processing,8737,Bio-waste,703,Daily,Bio-fuel,Energy Source,Low,Monthly
+Factory_351,"Japan, Tokyo",Metals,7309,Waste Chemicals,981,Monthly,Bio-fuel,Raw Material,High,Daily
+Factory_379,"USA, California",Electronics,8439,Slag,758,Weekly,Silicon,Raw Material,Medium,Monthly
+Factory_350,"Brazil, Sao Paulo",Food Processing,165,Slag,786,Weekly,Organic Material,Raw Material,High,Monthly
+Factory_177,"UK, London",Pharmaceuticals,8957,Waste Chemicals,198,Monthly,Recycled Plastic,Energy Source,Medium,Weekly
+Factory_216,"UK, London",Chemicals,3021,Plastic Waste,806,Daily,Heat Energy,Raw Material,Medium,Monthly
+Factory_443,"Japan, Tokyo",Metals,6071,Plastic Waste,273,Weekly,Silicon,Composting,Low,Daily
+Factory_136,"India, Mumbai",Textiles,9522,Waste Chemicals,312,Weekly,Organic Material,Raw Material,High,Weekly
+Factory_114,"Germany, Berlin",Electronics,6305,Heat,365,Daily,Organic Material,Recycling,Medium,Weekly
+Factory_40,"USA, California",Pharmaceuticals,9021,Metal Scraps,467,Weekly,Organic Material,Energy Source,Medium,Weekly
+Factory_489,"Brazil, Sao Paulo",Metals,7164,Waste Chemicals,560,Daily,Heat Energy,Raw Material,Medium,Monthly
+Factory_157,"Japan, Tokyo",Electronics,4593,Bio-waste,513,Weekly,Recycled Plastic,Energy Source,Low,Daily
+Factory_35,"UK, London",Food Processing,1891,Slag,950,Weekly,Silicon,Composting,High,Weekly
+Factory_46,"Germany, Berlin",Electronics,4658,Plastic Waste,712,Monthly,Organic Material,Raw Material,High,Weekly
+Factory_373,"UK, London",Pharmaceuticals,5996,Slag,561,Daily,Steel,Raw Material,High,Weekly
+Factory_353,"Brazil, Sao Paulo",Pharmaceuticals,6063,Metal Scraps,293,Daily,Recycled Plastic,Composting,High,Daily
+Factory_1,"South Africa, Johannesburg",Automotive,3774,Plastic Waste,855,Weekly,Recycled Plastic,Recycling,Low,Monthly
+Factory_349,"Japan, Tokyo",Metals,6287,Plastic Waste,332,Weekly,Heat Energy,Energy Source,Medium,Daily
+Factory_175,"USA, California",Plastics,9513,Heat,318,Weekly,Steel,Raw Material,Medium,Daily
+Factory_210,"Brazil, Sao Paulo",Pharmaceuticals,887,Heat,433,Daily,Silicon,Composting,Low,Weekly
+Factory_340,"India, Mumbai",Plastics,1988,Plastic Waste,696,Daily,Silicon,Raw Material,Low,Weekly
+Factory_118,"Brazil, Sao Paulo",Metals,7134,Bio-waste,919,Daily,Steel,Energy Source,Medium,Daily
+Factory_177,"Japan, Tokyo",Plastics,8033,Heat,956,Daily,Steel,Raw Material,Low,Weekly
+Factory_388,"South Africa, Johannesburg",Pharmaceuticals,4898,Metal Scraps,514,Weekly,Silicon,Energy Source,High,Monthly
+Factory_220,"China, Shenzhen",Pharmaceuticals,6380,Waste Chemicals,227,Weekly,Heat Energy,Raw Material,Medium,Daily
+Factory_411,"Brazil, Sao Paulo",Automotive,7738,Metal Scraps,834,Weekly,Heat Energy,Recycling,Low,Monthly
+Factory_375,"USA, California",Textiles,5523,Slag,203,Monthly,Bio-fuel,Energy Source,High,Daily
+Factory_321,"UK, London",Food Processing,9090,Heat,994,Monthly,Silicon,Composting,Low,Weekly
+Factory_35,"South Africa, Johannesburg",Plastics,7551,Plastic Waste,193,Weekly,Recycled Plastic,Composting,High,Daily
+Factory_170,"UK, London",Automotive,6764,Heat,252,Daily,Organic Material,Recycling,Medium,Daily
+Factory_62,"USA, California",Automotive,1006,Bio-waste,972,Daily,Recycled Plastic,Composting,High,Daily
+Factory_218,"UK, London",Chemicals,1287,Metal Scraps,96,Daily,Steel,Composting,High,Daily
+Factory_98,"China, Shenzhen",Food Processing,7432,Heat,674,Daily,Heat Energy,Energy Source,High,Daily
+Factory_217,"China, Shenzhen",Chemicals,1809,Plastic Waste,865,Monthly,Steel,Energy Source,High,Weekly
+Factory_348,"Germany, Berlin",Textiles,6703,Waste Chemicals,831,Daily,Steel,Raw Material,Low,Monthly
+Factory_147,"Brazil, Sao Paulo",Plastics,4360,Bio-waste,425,Weekly,Recycled Plastic,Energy Source,Low,Daily
+Factory_71,"China, Shenzhen",Food Processing,3015,Heat,435,Weekly,Heat Energy,Raw Material,Medium,Weekly
+Factory_157,"Japan, Tokyo",Plastics,9492,Bio-waste,492,Monthly,Organic Material,Recycling,Medium,Weekly
+Factory_44,"Germany, Berlin",Plastics,6607,Slag,403,Monthly,Bio-fuel,Raw Material,High,Weekly
+Factory_333,"China, Shenzhen",Automotive,8170,Plastic Waste,200,Daily,Steel,Raw Material,Low,Monthly
+Factory_125,"USA, California",Food Processing,5190,Slag,863,Monthly,Steel,Composting,High,Monthly
+Factory_379,"UK, London",Metals,1288,Heat,435,Daily,Organic Material,Energy Source,High,Daily
+Factory_309,"USA, California",Plastics,9589,Metal Scraps,678,Weekly,Organic Material,Composting,High,Monthly
+Factory_429,"Brazil, Sao Paulo",Pharmaceuticals,4556,Waste Chemicals,120,Weekly,Heat Energy,Raw Material,Low,Daily
+Factory_182,"USA, California",Automotive,8343,Plastic Waste,166,Monthly,Bio-fuel,Recycling,High,Monthly
+Factory_222,"Japan, Tokyo",Pharmaceuticals,8765,Metal Scraps,889,Daily,Bio-fuel,Energy Source,Medium,Monthly
+Factory_10,"China, Shenzhen",Electronics,4373,Heat,389,Weekly,Silicon,Energy Source,Low,Monthly
+Factory_471,"India, Mumbai",Chemicals,8439,Slag,394,Monthly,Silicon,Raw Material,Low,Weekly
+Factory_482,"Japan, Tokyo",Chemicals,6973,Metal Scraps,556,Monthly,Organic Material,Raw Material,Medium,Daily
+Factory_14,"USA, California",Chemicals,3203,Waste Chemicals,127,Daily,Recycled Plastic,Composting,Medium,Weekly
+Factory_5,"UK, London",Plastics,4896,Plastic Waste,713,Monthly,Recycled Plastic,Recycling,Low,Weekly
+Factory_417,"USA, California",Metals,2805,Bio-waste,200,Daily,Recycled Plastic,Energy Source,Low,Weekly
+Factory_383,"Brazil, Sao Paulo",Chemicals,5262,Plastic Waste,712,Weekly,Heat Energy,Recycling,High,Monthly
+Factory_122,"USA, California",Chemicals,8828,Bio-waste,950,Monthly,Heat Energy,Recycling,Low,Weekly
+Factory_266,"UK, London",Plastics,4443,Heat,309,Daily,Recycled Plastic,Raw Material,Low,Daily
+Factory_67,"China, Shenzhen",Food Processing,9140,Waste Chemicals,973,Daily,Steel,Energy Source,High,Monthly
+Factory_263,"USA, California",Pharmaceuticals,2498,Heat,373,Weekly,Steel,Raw Material,Medium,Daily
+Factory_178,"Brazil, Sao Paulo",Chemicals,7868,Waste Chemicals,835,Daily,Organic Material,Composting,Low,Monthly
+Factory_149,"South Africa, Johannesburg",Pharmaceuticals,3365,Bio-waste,580,Daily,Recycled Plastic,Composting,Medium,Daily
+Factory_218,"India, Mumbai",Metals,3782,Slag,399,Monthly,Organic Material,Raw Material,Medium,Daily
+Factory_38,"South Africa, Johannesburg",Food Processing,6645,Bio-waste,920,Monthly,Bio-fuel,Raw Material,High,Weekly
+Factory_418,"Germany, Berlin",Metals,3829,Heat,856,Daily,Steel,Raw Material,High,Weekly
+Factory_384,"Brazil, Sao Paulo",Chemicals,909,Plastic Waste,465,Monthly,Steel,Composting,High,Weekly
+Factory_247,"India, Mumbai",Chemicals,897,Slag,323,Weekly,Heat Energy,Energy Source,Medium,Weekly
+Factory_56,"USA, California",Food Processing,7464,Slag,349,Weekly,Organic Material,Recycling,Medium,Monthly
+Factory_71,"Germany, Berlin",Automotive,8701,Slag,850,Weekly,Organic Material,Composting,Low,Weekly
+Factory_284,"Germany, Berlin",Electronics,7076,Bio-waste,831,Daily,Recycled Plastic,Composting,Low,Monthly
+Factory_17,"UK, London",Textiles,9099,Slag,68,Weekly,Silicon,Composting,High,Daily
+Factory_298,"Brazil, Sao Paulo",Pharmaceuticals,9285,Slag,461,Weekly,Recycled Plastic,Recycling,Medium,Monthly
+Factory_167,"Japan, Tokyo",Plastics,4336,Bio-waste,955,Monthly,Organic Material,Recycling,Medium,Weekly
+Factory_60,"South Africa, Johannesburg",Automotive,5284,Waste Chemicals,555,Daily,Organic Material,Energy Source,Medium,Monthly
+Factory_297,"USA, California",Metals,4210,Bio-waste,653,Monthly,Organic Material,Composting,Low,Daily
+Factory_132,"UK, London",Automotive,8542,Metal Scraps,541,Monthly,Organic Material,Composting,Low,Monthly
+Factory_69,"Germany, Berlin",Electronics,4898,Metal Scraps,380,Monthly,Recycled Plastic,Composting,High,Daily
+Factory_362,"China, Shenzhen",Food Processing,867,Plastic Waste,270,Weekly,Organic Material,Recycling,High,Daily
+Factory_221,"South Africa, Johannesburg",Electronics,2682,Waste Chemicals,258,Monthly,Recycled Plastic,Energy Source,Medium,Daily
+Factory_197,"UK, London",Textiles,9706,Bio-waste,364,Monthly,Bio-fuel,Raw Material,High,Weekly
+Factory_30,"UK, London",Food Processing,1799,Metal Scraps,343,Monthly,Silicon,Raw Material,Low,Monthly
+Factory_40,"South Africa, Johannesburg",Textiles,7332,Metal Scraps,547,Weekly,Recycled Plastic,Recycling,High,Weekly
+Factory_221,"USA, California",Textiles,3036,Slag,444,Daily,Bio-fuel,Recycling,Low,Weekly
+Factory_190,"UK, London",Automotive,9947,Metal Scraps,115,Monthly,Silicon,Energy Source,High,Daily
+Factory_415,"USA, California",Automotive,112,Heat,581,Monthly,Silicon,Recycling,Medium,Weekly
+Factory_288,"Germany, Berlin",Metals,4954,Slag,316,Monthly,Organic Material,Recycling,Low,Daily
+Factory_135,"UK, London",Metals,8120,Bio-waste,197,Weekly,Steel,Raw Material,Low,Monthly
+Factory_126,"UK, London",Pharmaceuticals,7146,Plastic Waste,679,Weekly,Organic Material,Energy Source,High,Weekly
+Factory_498,"India, Mumbai",Electronics,5494,Slag,109,Monthly,Heat Energy,Raw Material,High,Daily
+Factory_468,"UK, London",Plastics,6621,Heat,196,Weekly,Organic Material,Raw Material,Low,Weekly
+Factory_441,"India, Mumbai",Metals,2667,Plastic Waste,791,Daily,Silicon,Raw Material,Medium,Monthly
+Factory_456,"India, Mumbai",Automotive,8186,Bio-waste,995,Daily,Steel,Recycling,Low,Monthly
+Factory_16,"Japan, Tokyo",Metals,2770,Metal Scraps,446,Weekly,Steel,Energy Source,Medium,Weekly
+Factory_69,"UK, London",Metals,994,Slag,788,Daily,Heat Energy,Raw Material,High,Daily
+Factory_319,"Brazil, Sao Paulo",Electronics,4424,Plastic Waste,470,Monthly,Bio-fuel,Composting,High,Daily
+Factory_14,"UK, London",Electronics,5204,Plastic Waste,569,Monthly,Steel,Raw Material,High,Monthly
+Factory_401,"China, Shenzhen",Food Processing,7127,Metal Scraps,983,Daily,Silicon,Energy Source,High,Daily
+Factory_438,"USA, California",Chemicals,8260,Plastic Waste,972,Monthly,Heat Energy,Recycling,High,Daily
+Factory_368,"Germany, Berlin",Plastics,190,Waste Chemicals,616,Weekly,Silicon,Raw Material,Medium,Monthly
+Factory_8,"India, Mumbai",Electronics,1515,Waste Chemicals,222,Daily,Recycled Plastic,Raw Material,High,Daily
+Factory_155,"UK, London",Automotive,5840,Slag,896,Daily,Steel,Composting,Medium,Daily
+Factory_205,"UK, London",Food Processing,831,Waste Chemicals,375,Weekly,Bio-fuel,Composting,High,Weekly
+Factory_402,"UK, London",Textiles,1555,Metal Scraps,964,Weekly,Heat Energy,Energy Source,High,Daily
+Factory_245,"India, Mumbai",Metals,2901,Slag,192,Daily,Organic Material,Composting,Medium,Monthly
+Factory_8,"USA, California",Food Processing,4590,Bio-waste,186,Daily,Heat Energy,Energy Source,Low,Monthly
+Factory_143,"Brazil, Sao Paulo",Food Processing,4344,Waste Chemicals,276,Weekly,Silicon,Composting,Low,Weekly
+Factory_224,"USA, California",Chemicals,5445,Slag,597,Weekly,Silicon,Composting,Low,Weekly
+Factory_469,"USA, California",Electronics,8628,Waste Chemicals,754,Daily,Heat Energy,Raw Material,Medium,Monthly
+Factory_325,"USA, California",Metals,1968,Waste Chemicals,989,Weekly,Heat Energy,Recycling,Low,Monthly
+Factory_482,"USA, California",Food Processing,9559,Heat,243,Monthly,Steel,Composting,Medium,Daily
+Factory_421,"USA, California",Metals,4016,Slag,853,Monthly,Silicon,Raw Material,Low,Weekly
+Factory_438,"India, Mumbai",Food Processing,666,Waste Chemicals,261,Monthly,Silicon,Energy Source,High,Weekly
+Factory_138,"South Africa, Johannesburg",Metals,3792,Slag,72,Monthly,Bio-fuel,Energy Source,Medium,Daily
+Factory_394,"Japan, Tokyo",Electronics,9469,Plastic Waste,414,Daily,Recycled Plastic,Recycling,Low,Weekly
+Factory_495,"Japan, Tokyo",Metals,7532,Slag,303,Weekly,Heat Energy,Energy Source,Medium,Monthly
+Factory_279,"South Africa, Johannesburg",Food Processing,6869,Waste Chemicals,334,Monthly,Recycled Plastic,Composting,Low,Monthly
+Factory_43,"Germany, Berlin",Automotive,4426,Slag,838,Daily,Bio-fuel,Recycling,High,Weekly
+Factory_462,"USA, California",Textiles,3235,Slag,359,Daily,Steel,Energy Source,High,Monthly
+Factory_4,"South Africa, Johannesburg",Pharmaceuticals,8261,Bio-waste,194,Weekly,Recycled Plastic,Composting,High,Weekly
+Factory_332,"USA, California",Metals,6110,Heat,389,Weekly,Bio-fuel,Energy Source,High,Monthly
+Factory_176,"USA, California",Food Processing,1489,Waste Chemicals,331,Daily,Bio-fuel,Recycling,Medium,Weekly
+Factory_396,"UK, London",Chemicals,8626,Plastic Waste,305,Daily,Steel,Raw Material,Medium,Weekly
+Factory_265,"Brazil, Sao Paulo",Automotive,2350,Plastic Waste,70,Daily,Heat Energy,Raw Material,Low,Monthly
+Factory_132,"USA, California",Electronics,3098,Slag,36,Weekly,Bio-fuel,Recycling,Medium,Weekly
+Factory_142,"South Africa, Johannesburg",Textiles,7683,Slag,381,Monthly,Organic Material,Energy Source,Low,Weekly
+Factory_425,"China, Shenzhen",Textiles,1318,Waste Chemicals,550,Monthly,Silicon,Raw Material,Medium,Daily
+Factory_305,"China, Shenzhen",Pharmaceuticals,6393,Slag,480,Daily,Organic Material,Recycling,Medium,Monthly
+Factory_407,"Germany, Berlin",Pharmaceuticals,9934,Slag,485,Daily,Silicon,Composting,High,Monthly
+Factory_324,"Germany, Berlin",Electronics,9494,Plastic Waste,360,Daily,Bio-fuel,Raw Material,High,Weekly
+Factory_146,"China, Shenzhen",Food Processing,4311,Metal Scraps,756,Weekly,Recycled Plastic,Energy Source,High,Weekly
+Factory_28,"Japan, Tokyo",Pharmaceuticals,3864,Bio-waste,136,Weekly,Organic Material,Raw Material,Medium,Weekly
+Factory_238,"UK, London",Plastics,1385,Bio-waste,942,Weekly,Silicon,Energy Source,High,Daily
+Factory_102,"Japan, Tokyo",Plastics,5533,Heat,853,Daily,Steel,Composting,Medium,Monthly
+Factory_347,"UK, London",Textiles,166,Plastic Waste,915,Weekly,Recycled Plastic,Raw Material,High,Daily
+Factory_133,"UK, London",Chemicals,4094,Bio-waste,808,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_371,"South Africa, Johannesburg",Pharmaceuticals,4417,Slag,63,Weekly,Steel,Energy Source,Medium,Weekly
+Factory_354,"Germany, Berlin",Metals,3655,Bio-waste,553,Weekly,Recycled Plastic,Energy Source,Low,Monthly
+Factory_382,"India, Mumbai",Pharmaceuticals,3934,Heat,749,Weekly,Steel,Energy Source,Medium,Weekly
+Factory_161,"Japan, Tokyo",Chemicals,6313,Slag,778,Monthly,Bio-fuel,Recycling,High,Weekly
+Factory_14,"China, Shenzhen",Electronics,5443,Metal Scraps,103,Monthly,Silicon,Composting,Medium,Weekly
+Factory_106,"USA, California",Pharmaceuticals,5612,Plastic Waste,59,Daily,Recycled Plastic,Recycling,Medium,Weekly
+Factory_393,"Germany, Berlin",Food Processing,7283,Metal Scraps,237,Daily,Steel,Composting,Low,Weekly
+Factory_147,"India, Mumbai",Pharmaceuticals,2959,Waste Chemicals,22,Weekly,Recycled Plastic,Recycling,Medium,Weekly
+Factory_78,"South Africa, Johannesburg",Pharmaceuticals,3916,Bio-waste,858,Monthly,Recycled Plastic,Recycling,Low,Daily
+Factory_226,"UK, London",Food Processing,776,Slag,732,Daily,Bio-fuel,Composting,High,Monthly
+Factory_344,"UK, London",Plastics,9251,Waste Chemicals,753,Daily,Heat Energy,Raw Material,Medium,Weekly
+Factory_449,"India, Mumbai",Food Processing,7219,Heat,682,Monthly,Heat Energy,Recycling,High,Monthly
+Factory_333,"Brazil, Sao Paulo",Plastics,8726,Heat,801,Monthly,Bio-fuel,Recycling,Medium,Weekly
+Factory_222,"UK, London",Metals,7492,Bio-waste,377,Monthly,Steel,Raw Material,Low,Daily
+Factory_17,"UK, London",Metals,3859,Heat,617,Daily,Organic Material,Composting,Low,Weekly
+Factory_97,"India, Mumbai",Food Processing,5422,Heat,144,Daily,Steel,Energy Source,High,Monthly
+Factory_367,"India, Mumbai",Textiles,6947,Slag,659,Daily,Organic Material,Energy Source,Low,Monthly
+Factory_201,"Germany, Berlin",Pharmaceuticals,104,Bio-waste,624,Monthly,Silicon,Composting,High,Monthly
+Factory_63,"UK, London",Metals,9707,Waste Chemicals,353,Daily,Bio-fuel,Raw Material,Low,Weekly
+Factory_206,"USA, California",Textiles,8354,Waste Chemicals,875,Monthly,Silicon,Raw Material,Low,Monthly
+Factory_18,"UK, London",Automotive,2318,Slag,940,Weekly,Organic Material,Energy Source,Medium,Daily
+Factory_218,"USA, California",Food Processing,9097,Heat,868,Daily,Heat Energy,Composting,Medium,Daily
+Factory_403,"UK, London",Food Processing,1351,Slag,982,Weekly,Steel,Recycling,Medium,Daily
+Factory_176,"India, Mumbai",Electronics,9545,Metal Scraps,245,Monthly,Heat Energy,Composting,Medium,Monthly
+Factory_105,"Germany, Berlin",Chemicals,6772,Bio-waste,956,Monthly,Heat Energy,Composting,Low,Monthly
+Factory_78,"India, Mumbai",Automotive,2679,Bio-waste,293,Daily,Silicon,Composting,Medium,Daily
+Factory_174,"Japan, Tokyo",Automotive,9038,Bio-waste,628,Daily,Recycled Plastic,Composting,High,Weekly
+Factory_356,"Brazil, Sao Paulo",Food Processing,9100,Heat,659,Daily,Bio-fuel,Energy Source,High,Daily
+Factory_292,"UK, London",Metals,4411,Metal Scraps,759,Monthly,Heat Energy,Energy Source,Low,Daily
+Factory_421,"UK, London",Chemicals,6023,Bio-waste,297,Daily,Recycled Plastic,Recycling,High,Monthly
+Factory_189,"Japan, Tokyo",Metals,7031,Bio-waste,414,Daily,Recycled Plastic,Recycling,Low,Daily
+Factory_107,"USA, California",Plastics,1875,Plastic Waste,962,Daily,Bio-fuel,Raw Material,Medium,Daily
+Factory_317,"Brazil, Sao Paulo",Metals,3361,Metal Scraps,382,Monthly,Silicon,Recycling,Low,Daily
+Factory_2,"Germany, Berlin",Automotive,6002,Slag,825,Monthly,Recycled Plastic,Energy Source,Low,Weekly
+Factory_471,"South Africa, Johannesburg",Plastics,5817,Plastic Waste,163,Daily,Heat Energy,Raw Material,Medium,Monthly
+Factory_414,"Brazil, Sao Paulo",Food Processing,8423,Slag,822,Monthly,Silicon,Raw Material,Medium,Monthly
+Factory_180,"South Africa, Johannesburg",Automotive,194,Heat,838,Monthly,Heat Energy,Composting,High,Monthly
+Factory_462,"Brazil, Sao Paulo",Metals,9326,Metal Scraps,50,Daily,Organic Material,Raw Material,Low,Monthly
+Factory_258,"South Africa, Johannesburg",Pharmaceuticals,2952,Slag,891,Monthly,Recycled Plastic,Recycling,High,Daily
+Factory_495,"UK, London",Electronics,832,Bio-waste,41,Daily,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_76,"Japan, Tokyo",Automotive,2563,Bio-waste,843,Daily,Organic Material,Composting,Medium,Weekly
+Factory_38,"China, Shenzhen",Automotive,7593,Heat,78,Monthly,Bio-fuel,Recycling,Low,Monthly
+Factory_107,"UK, London",Automotive,7940,Slag,442,Weekly,Bio-fuel,Energy Source,Medium,Weekly
+Factory_439,"USA, California",Food Processing,3883,Heat,128,Weekly,Recycled Plastic,Recycling,Low,Weekly
+Factory_349,"UK, London",Chemicals,3741,Metal Scraps,560,Weekly,Silicon,Composting,Medium,Daily
+Factory_185,"Brazil, Sao Paulo",Automotive,6564,Slag,684,Monthly,Heat Energy,Raw Material,High,Daily
+Factory_5,"USA, California",Textiles,1706,Slag,177,Monthly,Heat Energy,Energy Source,Medium,Weekly
+Factory_103,"India, Mumbai",Electronics,8277,Metal Scraps,372,Monthly,Organic Material,Composting,Low,Daily
+Factory_73,"Japan, Tokyo",Textiles,5729,Bio-waste,349,Daily,Steel,Composting,Medium,Weekly
+Factory_9,"China, Shenzhen",Pharmaceuticals,2673,Plastic Waste,317,Daily,Recycled Plastic,Recycling,Low,Monthly
+Factory_296,"China, Shenzhen",Food Processing,1487,Heat,582,Monthly,Heat Energy,Recycling,High,Monthly
+Factory_74,"South Africa, Johannesburg",Electronics,6154,Metal Scraps,865,Weekly,Recycled Plastic,Composting,Low,Daily
+Factory_58,"China, Shenzhen",Textiles,3558,Waste Chemicals,173,Weekly,Steel,Raw Material,Medium,Weekly
+Factory_15,"South Africa, Johannesburg",Textiles,1965,Bio-waste,447,Monthly,Organic Material,Raw Material,Low,Daily
+Factory_177,"Japan, Tokyo",Chemicals,8852,Metal Scraps,379,Daily,Heat Energy,Composting,High,Monthly
+Factory_207,"China, Shenzhen",Textiles,929,Heat,657,Monthly,Heat Energy,Energy Source,Low,Monthly
+Factory_44,"Brazil, Sao Paulo",Plastics,819,Waste Chemicals,889,Monthly,Recycled Plastic,Composting,Medium,Monthly
+Factory_223,"Japan, Tokyo",Pharmaceuticals,2338,Bio-waste,331,Daily,Heat Energy,Composting,Low,Monthly
+Factory_376,"Japan, Tokyo",Electronics,8985,Heat,653,Weekly,Recycled Plastic,Composting,High,Weekly
+Factory_402,"UK, London",Metals,5018,Metal Scraps,950,Weekly,Silicon,Raw Material,Low,Daily
+Factory_425,"UK, London",Metals,1458,Slag,358,Daily,Heat Energy,Composting,High,Monthly
+Factory_79,"India, Mumbai",Electronics,1281,Bio-waste,448,Daily,Silicon,Composting,Low,Monthly
+Factory_291,"China, Shenzhen",Plastics,8299,Metal Scraps,543,Monthly,Steel,Raw Material,High,Daily
+Factory_463,"South Africa, Johannesburg",Electronics,2682,Waste Chemicals,410,Weekly,Heat Energy,Composting,Medium,Daily
+Factory_418,"Germany, Berlin",Automotive,3179,Metal Scraps,704,Weekly,Recycled Plastic,Raw Material,High,Monthly
+Factory_405,"USA, California",Food Processing,1047,Plastic Waste,994,Weekly,Bio-fuel,Composting,High,Monthly
+Factory_327,"Germany, Berlin",Electronics,7266,Plastic Waste,749,Daily,Recycled Plastic,Recycling,Medium,Weekly
+Factory_475,"Brazil, Sao Paulo",Automotive,1798,Waste Chemicals,28,Daily,Recycled Plastic,Raw Material,High,Daily
+Factory_21,"USA, California",Food Processing,7625,Bio-waste,515,Monthly,Organic Material,Raw Material,High,Weekly
+Factory_194,"Germany, Berlin",Textiles,5082,Heat,295,Daily,Silicon,Raw Material,High,Monthly
+Factory_31,"China, Shenzhen",Chemicals,181,Heat,56,Daily,Bio-fuel,Recycling,Medium,Weekly
+Factory_37,"China, Shenzhen",Electronics,7050,Plastic Waste,367,Weekly,Recycled Plastic,Energy Source,Medium,Weekly
+Factory_276,"Japan, Tokyo",Pharmaceuticals,2456,Waste Chemicals,475,Daily,Silicon,Energy Source,Low,Weekly
+Factory_102,"USA, California",Textiles,3392,Waste Chemicals,564,Monthly,Silicon,Energy Source,High,Weekly
+Factory_279,"Japan, Tokyo",Metals,5239,Bio-waste,950,Daily,Steel,Recycling,Medium,Daily
+Factory_141,"Germany, Berlin",Textiles,938,Heat,547,Daily,Heat Energy,Energy Source,Low,Daily
+Factory_196,"Japan, Tokyo",Automotive,9989,Slag,629,Monthly,Steel,Recycling,Low,Daily
+Factory_37,"USA, California",Textiles,5358,Metal Scraps,773,Monthly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_208,"China, Shenzhen",Chemicals,133,Metal Scraps,187,Weekly,Steel,Composting,High,Monthly
+Factory_322,"USA, California",Food Processing,4361,Waste Chemicals,639,Weekly,Steel,Raw Material,Medium,Daily
+Factory_64,"USA, California",Chemicals,249,Slag,487,Weekly,Recycled Plastic,Energy Source,High,Daily
+Factory_198,"India, Mumbai",Metals,8955,Plastic Waste,204,Daily,Organic Material,Recycling,High,Monthly
+Factory_85,"Germany, Berlin",Chemicals,1403,Slag,623,Weekly,Silicon,Composting,Low,Weekly
+Factory_50,"India, Mumbai",Metals,9862,Bio-waste,527,Weekly,Bio-fuel,Composting,Medium,Weekly
+Factory_104,"Japan, Tokyo",Textiles,878,Waste Chemicals,266,Weekly,Recycled Plastic,Recycling,High,Monthly
+Factory_64,"USA, California",Plastics,4109,Heat,44,Monthly,Recycled Plastic,Composting,Low,Daily
+Factory_249,"India, Mumbai",Plastics,7502,Plastic Waste,292,Weekly,Recycled Plastic,Raw Material,Medium,Daily
+Factory_477,"Brazil, Sao Paulo",Textiles,2139,Bio-waste,197,Daily,Heat Energy,Raw Material,Low,Monthly
+Factory_467,"Germany, Berlin",Plastics,9065,Bio-waste,541,Monthly,Silicon,Composting,Medium,Daily
+Factory_382,"Brazil, Sao Paulo",Chemicals,7955,Waste Chemicals,410,Monthly,Steel,Raw Material,Low,Daily
+Factory_375,"Brazil, Sao Paulo",Textiles,5822,Waste Chemicals,65,Weekly,Bio-fuel,Recycling,High,Weekly
+Factory_497,"UK, London",Automotive,5795,Heat,380,Daily,Steel,Recycling,Low,Weekly
+Factory_81,"China, Shenzhen",Food Processing,6087,Waste Chemicals,574,Daily,Bio-fuel,Composting,Medium,Weekly
+Factory_129,"USA, California",Metals,8242,Slag,714,Weekly,Recycled Plastic,Energy Source,High,Monthly
+Factory_162,"Japan, Tokyo",Food Processing,7316,Plastic Waste,375,Weekly,Recycled Plastic,Recycling,High,Weekly
+Factory_51,"UK, London",Metals,4482,Plastic Waste,619,Daily,Recycled Plastic,Energy Source,High,Weekly
+Factory_155,"South Africa, Johannesburg",Food Processing,1889,Bio-waste,680,Weekly,Organic Material,Composting,High,Weekly
+Factory_242,"Brazil, Sao Paulo",Textiles,8800,Plastic Waste,167,Weekly,Organic Material,Recycling,High,Monthly
+Factory_92,"USA, California",Automotive,6490,Heat,318,Daily,Recycled Plastic,Composting,Low,Monthly
+Factory_96,"Germany, Berlin",Chemicals,1671,Waste Chemicals,77,Weekly,Recycled Plastic,Recycling,Low,Weekly
+Factory_81,"India, Mumbai",Metals,533,Bio-waste,875,Daily,Steel,Energy Source,Low,Monthly
+Factory_343,"China, Shenzhen",Metals,2240,Waste Chemicals,266,Weekly,Bio-fuel,Raw Material,High,Weekly
+Factory_33,"USA, California",Food Processing,4992,Metal Scraps,518,Weekly,Silicon,Composting,Low,Monthly
+Factory_296,"China, Shenzhen",Chemicals,3261,Metal Scraps,91,Monthly,Recycled Plastic,Raw Material,High,Daily
+Factory_276,"China, Shenzhen",Pharmaceuticals,8955,Metal Scraps,530,Monthly,Steel,Energy Source,Low,Daily
+Factory_313,"China, Shenzhen",Chemicals,8735,Plastic Waste,547,Monthly,Silicon,Composting,High,Daily
+Factory_368,"USA, California",Food Processing,4301,Metal Scraps,904,Weekly,Silicon,Composting,Medium,Daily
+Factory_322,"Japan, Tokyo",Textiles,8016,Slag,887,Daily,Organic Material,Raw Material,High,Weekly
+Factory_121,"South Africa, Johannesburg",Food Processing,2251,Slag,365,Weekly,Heat Energy,Raw Material,High,Monthly
+Factory_63,"Germany, Berlin",Pharmaceuticals,4898,Bio-waste,837,Weekly,Silicon,Energy Source,High,Monthly
+Factory_329,"South Africa, Johannesburg",Electronics,653,Slag,415,Monthly,Organic Material,Energy Source,Medium,Monthly
+Factory_19,"India, Mumbai",Pharmaceuticals,5317,Waste Chemicals,901,Daily,Organic Material,Composting,Low,Weekly
+Factory_149,"Japan, Tokyo",Pharmaceuticals,3024,Heat,167,Weekly,Bio-fuel,Energy Source,Low,Weekly
+Factory_311,"Germany, Berlin",Chemicals,5491,Slag,801,Monthly,Recycled Plastic,Recycling,Medium,Daily
+Factory_28,"Japan, Tokyo",Automotive,6962,Plastic Waste,639,Weekly,Heat Energy,Raw Material,Medium,Monthly
+Factory_462,"India, Mumbai",Automotive,3030,Bio-waste,449,Weekly,Heat Energy,Raw Material,Medium,Daily
+Factory_31,"South Africa, Johannesburg",Pharmaceuticals,4940,Slag,810,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_252,"USA, California",Pharmaceuticals,9334,Waste Chemicals,568,Daily,Recycled Plastic,Raw Material,Medium,Weekly
+Factory_225,"South Africa, Johannesburg",Metals,6574,Slag,621,Monthly,Heat Energy,Composting,Low,Monthly
+Factory_379,"China, Shenzhen",Pharmaceuticals,1007,Plastic Waste,733,Monthly,Heat Energy,Energy Source,Medium,Daily
+Factory_200,"Japan, Tokyo",Textiles,5745,Metal Scraps,199,Monthly,Steel,Raw Material,Low,Daily
+Factory_284,"South Africa, Johannesburg",Automotive,628,Bio-waste,641,Weekly,Recycled Plastic,Raw Material,Medium,Monthly
+Factory_478,"USA, California",Chemicals,8470,Metal Scraps,780,Daily,Recycled Plastic,Energy Source,High,Weekly
+Factory_204,"Japan, Tokyo",Pharmaceuticals,6595,Bio-waste,259,Daily,Heat Energy,Energy Source,Medium,Monthly
+Factory_138,"Brazil, Sao Paulo",Plastics,6071,Bio-waste,423,Daily,Organic Material,Raw Material,High,Weekly
+Factory_456,"Brazil, Sao Paulo",Textiles,6337,Metal Scraps,126,Daily,Bio-fuel,Energy Source,High,Weekly
+Factory_345,"China, Shenzhen",Plastics,415,Metal Scraps,998,Weekly,Heat Energy,Recycling,Medium,Daily
+Factory_415,"Germany, Berlin",Electronics,9654,Bio-waste,863,Monthly,Recycled Plastic,Recycling,Medium,Weekly
+Factory_351,"India, Mumbai",Chemicals,3261,Bio-waste,362,Weekly,Heat Energy,Energy Source,High,Monthly
+Factory_88,"Japan, Tokyo",Pharmaceuticals,5618,Waste Chemicals,104,Monthly,Heat Energy,Energy Source,Low,Monthly
+Factory_277,"UK, London",Plastics,1043,Plastic Waste,774,Daily,Heat Energy,Composting,Low,Daily
+Factory_365,"UK, London",Metals,8968,Waste Chemicals,952,Weekly,Organic Material,Energy Source,Low,Weekly
+Factory_43,"UK, London",Chemicals,7611,Bio-waste,197,Monthly,Silicon,Recycling,Low,Monthly
+Factory_234,"Brazil, Sao Paulo",Automotive,4303,Bio-waste,121,Daily,Steel,Composting,Low,Monthly
+Factory_119,"South Africa, Johannesburg",Pharmaceuticals,977,Bio-waste,250,Weekly,Recycled Plastic,Composting,Low,Daily
+Factory_340,"India, Mumbai",Plastics,6790,Metal Scraps,324,Daily,Silicon,Recycling,High,Weekly
+Factory_166,"China, Shenzhen",Textiles,1268,Bio-waste,656,Weekly,Bio-fuel,Raw Material,Low,Daily
+Factory_374,"Brazil, Sao Paulo",Chemicals,7233,Plastic Waste,957,Daily,Heat Energy,Energy Source,High,Weekly
+Factory_43,"Japan, Tokyo",Chemicals,2444,Heat,29,Weekly,Heat Energy,Raw Material,Medium,Daily
+Factory_215,"Japan, Tokyo",Automotive,3952,Bio-waste,392,Daily,Steel,Recycling,High,Daily
+Factory_244,"Brazil, Sao Paulo",Electronics,3029,Metal Scraps,578,Daily,Bio-fuel,Energy Source,Low,Daily
+Factory_45,"USA, California",Chemicals,5053,Heat,526,Monthly,Silicon,Composting,High,Weekly
+Factory_128,"Brazil, Sao Paulo",Electronics,6277,Waste Chemicals,761,Daily,Bio-fuel,Energy Source,Medium,Daily
+Factory_129,"Japan, Tokyo",Metals,207,Slag,794,Monthly,Steel,Energy Source,Low,Weekly
+Factory_4,"Brazil, Sao Paulo",Chemicals,3326,Metal Scraps,387,Monthly,Heat Energy,Raw Material,High,Weekly
+Factory_178,"South Africa, Johannesburg",Automotive,7914,Bio-waste,161,Daily,Organic Material,Raw Material,Low,Monthly
+Factory_341,"China, Shenzhen",Metals,5811,Heat,74,Monthly,Bio-fuel,Energy Source,High,Weekly
+Factory_281,"China, Shenzhen",Automotive,9492,Slag,342,Daily,Steel,Recycling,Low,Monthly
+Factory_210,"Brazil, Sao Paulo",Plastics,9578,Waste Chemicals,31,Monthly,Bio-fuel,Composting,Low,Daily
+Factory_123,"South Africa, Johannesburg",Chemicals,1650,Bio-waste,717,Monthly,Silicon,Raw Material,Medium,Monthly
+Factory_19,"UK, London",Chemicals,1166,Slag,26,Daily,Bio-fuel,Composting,High,Weekly
+Factory_223,"South Africa, Johannesburg",Metals,2309,Slag,841,Daily,Steel,Energy Source,High,Monthly
+Factory_436,"Japan, Tokyo",Electronics,1314,Plastic Waste,232,Weekly,Bio-fuel,Raw Material,High,Weekly
+Factory_142,"South Africa, Johannesburg",Pharmaceuticals,4811,Bio-waste,913,Weekly,Steel,Energy Source,Low,Weekly
+Factory_76,"USA, California",Automotive,9451,Metal Scraps,930,Weekly,Organic Material,Recycling,Low,Daily
+Factory_267,"China, Shenzhen",Plastics,130,Waste Chemicals,617,Weekly,Silicon,Energy Source,High,Daily
+Factory_484,"Brazil, Sao Paulo",Electronics,1776,Heat,177,Monthly,Steel,Raw Material,High,Monthly
+Factory_211,"Japan, Tokyo",Automotive,1736,Plastic Waste,62,Weekly,Organic Material,Composting,High,Daily
+Factory_181,"South Africa, Johannesburg",Electronics,4484,Waste Chemicals,699,Daily,Steel,Recycling,Low,Weekly
+Factory_373,"China, Shenzhen",Food Processing,9387,Heat,456,Daily,Recycled Plastic,Energy Source,Medium,Daily
+Factory_225,"Japan, Tokyo",Pharmaceuticals,6757,Heat,314,Daily,Steel,Raw Material,High,Daily
+Factory_52,"India, Mumbai",Plastics,8984,Slag,957,Weekly,Bio-fuel,Energy Source,Medium,Daily
+Factory_331,"Japan, Tokyo",Chemicals,6433,Bio-waste,789,Weekly,Organic Material,Recycling,High,Weekly
+Factory_143,"UK, London",Metals,1641,Slag,196,Weekly,Bio-fuel,Raw Material,High,Daily
+Factory_251,"Brazil, Sao Paulo",Plastics,9830,Plastic Waste,874,Weekly,Silicon,Composting,Medium,Weekly
+Factory_109,"Germany, Berlin",Automotive,7315,Bio-waste,200,Weekly,Organic Material,Composting,Low,Weekly
+Factory_60,"Germany, Berlin",Pharmaceuticals,8941,Slag,420,Monthly,Silicon,Composting,High,Weekly
+Factory_115,"USA, California",Plastics,673,Plastic Waste,364,Monthly,Recycled Plastic,Composting,Medium,Weekly
+Factory_171,"South Africa, Johannesburg",Pharmaceuticals,2585,Bio-waste,140,Daily,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_259,"South Africa, Johannesburg",Metals,1348,Metal Scraps,693,Weekly,Recycled Plastic,Raw Material,Medium,Weekly
+Factory_89,"UK, London",Metals,4685,Bio-waste,808,Daily,Silicon,Recycling,Low,Weekly
+Factory_204,"Japan, Tokyo",Automotive,9869,Plastic Waste,161,Monthly,Recycled Plastic,Recycling,High,Weekly
+Factory_295,"USA, California",Electronics,9734,Metal Scraps,744,Monthly,Recycled Plastic,Raw Material,Low,Daily
+Factory_406,"USA, California",Textiles,9747,Metal Scraps,798,Weekly,Steel,Energy Source,High,Weekly
+Factory_232,"UK, London",Automotive,6571,Metal Scraps,625,Daily,Bio-fuel,Raw Material,Low,Daily
+Factory_482,"Brazil, Sao Paulo",Food Processing,2959,Plastic Waste,107,Monthly,Bio-fuel,Composting,Low,Weekly
+Factory_89,"South Africa, Johannesburg",Plastics,4846,Plastic Waste,73,Monthly,Silicon,Energy Source,Low,Monthly
+Factory_392,"USA, California",Pharmaceuticals,7873,Bio-waste,633,Weekly,Bio-fuel,Raw Material,High,Weekly
+Factory_78,"India, Mumbai",Textiles,4025,Slag,617,Weekly,Recycled Plastic,Composting,Low,Daily
+Factory_83,"South Africa, Johannesburg",Textiles,2606,Metal Scraps,906,Weekly,Steel,Energy Source,Medium,Monthly
+Factory_488,"Germany, Berlin",Plastics,3051,Metal Scraps,252,Monthly,Bio-fuel,Raw Material,High,Daily
+Factory_261,"Japan, Tokyo",Food Processing,7528,Waste Chemicals,220,Weekly,Bio-fuel,Energy Source,Low,Weekly
+Factory_215,"Brazil, Sao Paulo",Chemicals,8969,Bio-waste,619,Weekly,Heat Energy,Raw Material,Low,Weekly
+Factory_92,"UK, London",Textiles,8910,Bio-waste,449,Weekly,Heat Energy,Composting,Low,Daily
+Factory_221,"China, Shenzhen",Plastics,9161,Heat,719,Daily,Steel,Energy Source,Medium,Monthly
+Factory_401,"China, Shenzhen",Electronics,6827,Heat,533,Weekly,Silicon,Raw Material,Low,Daily
+Factory_88,"Brazil, Sao Paulo",Metals,6129,Metal Scraps,85,Monthly,Organic Material,Raw Material,High,Daily
+Factory_350,"China, Shenzhen",Plastics,8972,Heat,328,Monthly,Recycled Plastic,Raw Material,High,Daily
+Factory_348,"Japan, Tokyo",Plastics,1017,Waste Chemicals,587,Weekly,Steel,Energy Source,Low,Monthly
+Factory_149,"USA, California",Electronics,9120,Slag,622,Weekly,Steel,Composting,Medium,Weekly
+Factory_486,"Brazil, Sao Paulo",Plastics,9205,Plastic Waste,479,Weekly,Organic Material,Energy Source,Low,Weekly
+Factory_399,"Japan, Tokyo",Metals,5964,Bio-waste,532,Daily,Organic Material,Energy Source,Medium,Daily
+Factory_15,"China, Shenzhen",Electronics,4139,Slag,750,Weekly,Bio-fuel,Raw Material,Medium,Weekly
+Factory_96,"China, Shenzhen",Automotive,6510,Plastic Waste,248,Monthly,Recycled Plastic,Composting,Low,Weekly
+Factory_100,"India, Mumbai",Metals,5356,Slag,187,Monthly,Heat Energy,Recycling,High,Daily
+Factory_275,"USA, California",Plastics,8114,Waste Chemicals,982,Weekly,Heat Energy,Energy Source,Medium,Monthly
+Factory_195,"Brazil, Sao Paulo",Food Processing,1644,Slag,493,Weekly,Organic Material,Composting,Low,Monthly
+Factory_402,"Japan, Tokyo",Pharmaceuticals,2577,Heat,707,Daily,Silicon,Composting,Medium,Monthly
+Factory_446,"South Africa, Johannesburg",Chemicals,4978,Plastic Waste,547,Daily,Steel,Composting,Medium,Monthly
+Factory_52,"UK, London",Automotive,7008,Heat,824,Monthly,Steel,Composting,Medium,Weekly
+Factory_178,"India, Mumbai",Electronics,9641,Plastic Waste,584,Daily,Silicon,Composting,Medium,Monthly
+Factory_165,"Brazil, Sao Paulo",Plastics,3856,Plastic Waste,669,Daily,Silicon,Raw Material,Medium,Daily
+Factory_181,"Germany, Berlin",Electronics,4928,Slag,337,Weekly,Organic Material,Energy Source,Medium,Monthly
+Factory_451,"USA, California",Chemicals,5065,Metal Scraps,949,Daily,Silicon,Recycling,Medium,Monthly
+Factory_325,"Germany, Berlin",Food Processing,402,Heat,712,Monthly,Heat Energy,Composting,High,Weekly
+Factory_400,"China, Shenzhen",Automotive,678,Metal Scraps,734,Daily,Bio-fuel,Composting,Low,Monthly
+Factory_300,"Germany, Berlin",Food Processing,6307,Bio-waste,811,Weekly,Organic Material,Raw Material,Low,Daily
+Factory_296,"China, Shenzhen",Automotive,6698,Heat,74,Daily,Heat Energy,Raw Material,High,Daily
+Factory_252,"Germany, Berlin",Electronics,4138,Plastic Waste,14,Daily,Steel,Recycling,Low,Daily
+Factory_8,"South Africa, Johannesburg",Plastics,4928,Heat,122,Daily,Organic Material,Recycling,Low,Daily
+Factory_420,"Japan, Tokyo",Plastics,7304,Slag,640,Monthly,Heat Energy,Energy Source,Low,Monthly
+Factory_173,"Brazil, Sao Paulo",Metals,3748,Bio-waste,708,Daily,Silicon,Composting,Medium,Monthly
+Factory_177,"Japan, Tokyo",Chemicals,2003,Slag,446,Daily,Steel,Recycling,High,Weekly
+Factory_1,"China, Shenzhen",Plastics,9360,Slag,602,Monthly,Organic Material,Energy Source,Medium,Monthly
+Factory_262,"Brazil, Sao Paulo",Textiles,1357,Slag,312,Weekly,Organic Material,Raw Material,Medium,Weekly
+Factory_65,"India, Mumbai",Food Processing,9126,Bio-waste,160,Monthly,Organic Material,Raw Material,Medium,Daily
+Factory_280,"USA, California",Food Processing,4464,Waste Chemicals,203,Weekly,Bio-fuel,Energy Source,High,Weekly
+Factory_149,"India, Mumbai",Plastics,7067,Metal Scraps,120,Monthly,Bio-fuel,Energy Source,Medium,Daily
+Factory_153,"USA, California",Food Processing,9800,Bio-waste,557,Monthly,Organic Material,Composting,Low,Daily
+Factory_346,"UK, London",Metals,4217,Slag,355,Weekly,Recycled Plastic,Energy Source,Medium,Weekly
+Factory_41,"Brazil, Sao Paulo",Electronics,7214,Slag,259,Monthly,Organic Material,Recycling,High,Daily
+Factory_178,"Germany, Berlin",Automotive,9040,Slag,22,Weekly,Bio-fuel,Energy Source,Medium,Daily
+Factory_193,"China, Shenzhen",Electronics,7223,Bio-waste,166,Daily,Steel,Composting,Medium,Monthly
+Factory_140,"Japan, Tokyo",Food Processing,8445,Heat,835,Weekly,Organic Material,Recycling,Low,Monthly
+Factory_21,"South Africa, Johannesburg",Plastics,2097,Plastic Waste,257,Daily,Steel,Raw Material,High,Daily
+Factory_77,"India, Mumbai",Chemicals,1184,Waste Chemicals,219,Daily,Heat Energy,Raw Material,Medium,Daily
+Factory_78,"USA, California",Pharmaceuticals,5659,Plastic Waste,428,Daily,Recycled Plastic,Raw Material,Low,Daily
+Factory_134,"Brazil, Sao Paulo",Food Processing,1605,Bio-waste,546,Daily,Bio-fuel,Recycling,High,Monthly
+Factory_71,"UK, London",Textiles,6651,Metal Scraps,401,Weekly,Steel,Composting,Low,Weekly
+Factory_59,"South Africa, Johannesburg",Pharmaceuticals,6647,Waste Chemicals,517,Weekly,Bio-fuel,Energy Source,Low,Daily
+Factory_491,"Germany, Berlin",Textiles,8352,Bio-waste,101,Daily,Heat Energy,Recycling,Medium,Weekly
+Factory_76,"China, Shenzhen",Metals,3109,Bio-waste,695,Weekly,Steel,Raw Material,Low,Daily
+Factory_5,"USA, California",Electronics,117,Heat,163,Daily,Recycled Plastic,Recycling,Low,Daily
+Factory_136,"India, Mumbai",Textiles,5602,Heat,514,Daily,Steel,Composting,High,Monthly
+Factory_243,"Brazil, Sao Paulo",Electronics,714,Waste Chemicals,958,Daily,Silicon,Recycling,Low,Weekly
+Factory_373,"Brazil, Sao Paulo",Food Processing,6327,Metal Scraps,691,Monthly,Recycled Plastic,Energy Source,Medium,Monthly
+Factory_395,"USA, California",Food Processing,7493,Slag,112,Weekly,Organic Material,Recycling,Medium,Weekly
+Factory_121,"UK, London",Electronics,8800,Plastic Waste,104,Monthly,Steel,Composting,High,Weekly
+Factory_214,"USA, California",Electronics,2630,Slag,847,Daily,Steel,Raw Material,Low,Monthly
+Factory_251,"South Africa, Johannesburg",Chemicals,3161,Plastic Waste,906,Weekly,Bio-fuel,Raw Material,High,Daily
+Factory_429,"India, Mumbai",Electronics,9660,Metal Scraps,563,Daily,Recycled Plastic,Composting,High,Daily
+Factory_351,"Japan, Tokyo",Textiles,9718,Metal Scraps,361,Monthly,Organic Material,Recycling,High,Daily
+Factory_413,"India, Mumbai",Metals,5089,Slag,592,Weekly,Organic Material,Composting,Medium,Weekly
+Factory_227,"India, Mumbai",Automotive,166,Plastic Waste,112,Weekly,Heat Energy,Energy Source,Medium,Monthly
+Factory_20,"Brazil, Sao Paulo",Chemicals,8434,Slag,437,Monthly,Steel,Energy Source,Low,Daily
+Factory_21,"UK, London",Electronics,1266,Slag,624,Daily,Silicon,Composting,High,Weekly
+Factory_119,"China, Shenzhen",Food Processing,5063,Plastic Waste,199,Monthly,Steel,Recycling,Medium,Monthly
+Factory_162,"Japan, Tokyo",Pharmaceuticals,5656,Plastic Waste,383,Weekly,Organic Material,Recycling,Low,Weekly
+Factory_257,"India, Mumbai",Chemicals,9152,Slag,244,Weekly,Bio-fuel,Raw Material,Medium,Daily
+Factory_235,"China, Shenzhen",Textiles,1235,Waste Chemicals,791,Weekly,Recycled Plastic,Raw Material,Medium,Weekly
+Factory_300,"Brazil, Sao Paulo",Plastics,8493,Slag,379,Daily,Organic Material,Raw Material,Low,Weekly
+Factory_116,"Germany, Berlin",Chemicals,6556,Slag,588,Monthly,Steel,Raw Material,Low,Monthly
+Factory_359,"South Africa, Johannesburg",Automotive,2861,Metal Scraps,238,Monthly,Bio-fuel,Raw Material,High,Daily
+Factory_157,"South Africa, Johannesburg",Food Processing,164,Plastic Waste,642,Weekly,Silicon,Raw Material,Low,Monthly
+Factory_312,"China, Shenzhen",Electronics,3309,Waste Chemicals,873,Weekly,Heat Energy,Composting,Low,Monthly
+Factory_477,"USA, California",Automotive,2449,Slag,811,Weekly,Steel,Raw Material,High,Monthly
+Factory_394,"USA, California",Food Processing,5246,Slag,744,Weekly,Heat Energy,Composting,High,Monthly
+Factory_123,"China, Shenzhen",Metals,466,Bio-waste,111,Monthly,Steel,Recycling,Low,Weekly
+Factory_231,"Brazil, Sao Paulo",Pharmaceuticals,7750,Waste Chemicals,682,Daily,Silicon,Composting,High,Weekly
+Factory_285,"Japan, Tokyo",Food Processing,6330,Bio-waste,413,Weekly,Steel,Raw Material,Medium,Weekly
+Factory_399,"China, Shenzhen",Textiles,6013,Slag,865,Monthly,Bio-fuel,Recycling,Medium,Daily
+Factory_437,"India, Mumbai",Textiles,8472,Waste Chemicals,877,Monthly,Recycled Plastic,Recycling,Low,Weekly
+Factory_98,"Japan, Tokyo",Electronics,1142,Plastic Waste,874,Daily,Silicon,Raw Material,Medium,Monthly
+Factory_269,"India, Mumbai",Automotive,7235,Slag,49,Weekly,Recycled Plastic,Recycling,Low,Weekly
+Factory_29,"Japan, Tokyo",Chemicals,4896,Waste Chemicals,593,Weekly,Organic Material,Raw Material,High,Monthly
+Factory_192,"Japan, Tokyo",Food Processing,8590,Waste Chemicals,569,Daily,Steel,Raw Material,Low,Daily
+Factory_320,"South Africa, Johannesburg",Metals,6987,Waste Chemicals,462,Daily,Steel,Energy Source,High,Daily
+Factory_96,"USA, California",Metals,5233,Metal Scraps,828,Monthly,Silicon,Energy Source,Medium,Daily
+Factory_347,"UK, London",Automotive,3367,Heat,435,Weekly,Recycled Plastic,Composting,High,Daily
+Factory_17,"South Africa, Johannesburg",Electronics,2450,Heat,277,Weekly,Heat Energy,Composting,Medium,Weekly
+Factory_395,"Germany, Berlin",Pharmaceuticals,2272,Plastic Waste,305,Monthly,Silicon,Energy Source,Medium,Weekly
+Factory_370,"South Africa, Johannesburg",Food Processing,9032,Slag,211,Weekly,Bio-fuel,Composting,Low,Daily
+Factory_280,"USA, California",Textiles,7886,Plastic Waste,270,Daily,Silicon,Raw Material,Low,Monthly
+Factory_237,"South Africa, Johannesburg",Automotive,6555,Bio-waste,342,Monthly,Steel,Raw Material,High,Weekly
+Factory_100,"Brazil, Sao Paulo",Chemicals,8753,Heat,320,Monthly,Organic Material,Raw Material,Medium,Monthly
+Factory_31,"USA, California",Food Processing,6858,Slag,119,Daily,Silicon,Recycling,High,Daily
+Factory_495,"India, Mumbai",Plastics,165,Plastic Waste,33,Weekly,Organic Material,Raw Material,Low,Monthly
+Factory_390,"Germany, Berlin",Food Processing,2479,Plastic Waste,570,Weekly,Silicon,Composting,High,Weekly
+Factory_283,"China, Shenzhen",Metals,5658,Slag,531,Daily,Recycled Plastic,Raw Material,High,Monthly
+Factory_38,"Brazil, Sao Paulo",Automotive,5331,Bio-waste,39,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_55,"Germany, Berlin",Automotive,3287,Metal Scraps,321,Daily,Bio-fuel,Energy Source,Low,Weekly
+Factory_231,"Brazil, Sao Paulo",Metals,4929,Slag,568,Daily,Recycled Plastic,Composting,High,Weekly
+Factory_76,"UK, London",Automotive,5888,Heat,917,Weekly,Heat Energy,Energy Source,High,Daily
+Factory_166,"China, Shenzhen",Plastics,5195,Heat,156,Weekly,Recycled Plastic,Raw Material,High,Monthly
+Factory_169,"China, Shenzhen",Pharmaceuticals,7593,Plastic Waste,512,Daily,Bio-fuel,Energy Source,Low,Daily
+Factory_393,"UK, London",Automotive,8050,Slag,967,Monthly,Silicon,Recycling,Low,Weekly
+Factory_404,"Brazil, Sao Paulo",Metals,4399,Slag,673,Weekly,Bio-fuel,Recycling,Low,Daily
+Factory_17,"Japan, Tokyo",Automotive,778,Metal Scraps,112,Weekly,Bio-fuel,Energy Source,Medium,Monthly
+Factory_241,"China, Shenzhen",Automotive,7850,Heat,920,Daily,Heat Energy,Recycling,Medium,Weekly
+Factory_450,"Brazil, Sao Paulo",Chemicals,3189,Waste Chemicals,601,Monthly,Heat Energy,Energy Source,Medium,Monthly
+Factory_312,"Japan, Tokyo",Plastics,7800,Waste Chemicals,499,Weekly,Organic Material,Raw Material,Medium,Monthly
+Factory_384,"Japan, Tokyo",Pharmaceuticals,9114,Bio-waste,601,Monthly,Organic Material,Recycling,High,Monthly
+Factory_84,"China, Shenzhen",Textiles,1012,Metal Scraps,426,Monthly,Steel,Recycling,Medium,Monthly
+Factory_437,"Japan, Tokyo",Chemicals,4541,Slag,665,Weekly,Heat Energy,Raw Material,Medium,Daily
+Factory_227,"Germany, Berlin",Chemicals,2692,Plastic Waste,497,Weekly,Steel,Raw Material,High,Daily
+Factory_72,"Brazil, Sao Paulo",Electronics,8353,Bio-waste,221,Monthly,Heat Energy,Recycling,Medium,Monthly
+Factory_30,"South Africa, Johannesburg",Automotive,738,Metal Scraps,68,Weekly,Heat Energy,Recycling,Medium,Daily
+Factory_35,"UK, London",Plastics,6750,Waste Chemicals,732,Weekly,Bio-fuel,Raw Material,High,Weekly
+Factory_32,"China, Shenzhen",Textiles,6634,Plastic Waste,367,Daily,Steel,Raw Material,Low,Monthly
+Factory_242,"South Africa, Johannesburg",Chemicals,8472,Metal Scraps,996,Weekly,Recycled Plastic,Energy Source,High,Daily
+Factory_384,"India, Mumbai",Textiles,7585,Waste Chemicals,916,Weekly,Heat Energy,Raw Material,Low,Daily
+Factory_321,"Japan, Tokyo",Chemicals,8474,Heat,347,Monthly,Organic Material,Composting,Medium,Daily
+Factory_97,"India, Mumbai",Metals,2631,Metal Scraps,426,Daily,Organic Material,Composting,Medium,Monthly
+Factory_312,"South Africa, Johannesburg",Chemicals,6388,Plastic Waste,654,Monthly,Bio-fuel,Recycling,Medium,Monthly
+Factory_118,"Brazil, Sao Paulo",Automotive,214,Slag,420,Monthly,Recycled Plastic,Raw Material,Low,Monthly
+Factory_338,"USA, California",Electronics,412,Waste Chemicals,359,Weekly,Recycled Plastic,Energy Source,Low,Monthly
+Factory_14,"India, Mumbai",Metals,1691,Slag,942,Monthly,Silicon,Composting,High,Daily
+Factory_226,"UK, London",Metals,899,Slag,293,Monthly,Bio-fuel,Recycling,Low,Daily
+Factory_471,"Brazil, Sao Paulo",Automotive,3395,Bio-waste,479,Weekly,Silicon,Raw Material,High,Monthly
+Factory_386,"China, Shenzhen",Plastics,6839,Waste Chemicals,722,Weekly,Recycled Plastic,Raw Material,Medium,Weekly
+Factory_252,"Brazil, Sao Paulo",Plastics,9277,Slag,200,Monthly,Silicon,Composting,High,Monthly
+Factory_368,"China, Shenzhen",Automotive,7582,Waste Chemicals,243,Daily,Steel,Raw Material,High,Weekly
+Factory_83,"South Africa, Johannesburg",Pharmaceuticals,9311,Metal Scraps,981,Weekly,Silicon,Recycling,High,Monthly
+Factory_257,"Japan, Tokyo",Electronics,2593,Waste Chemicals,583,Daily,Silicon,Energy Source,Low,Weekly
+Factory_418,"USA, California",Pharmaceuticals,350,Heat,595,Weekly,Silicon,Composting,Low,Monthly
+Factory_230,"China, Shenzhen",Plastics,1628,Slag,462,Daily,Silicon,Raw Material,High,Weekly
+Factory_205,"South Africa, Johannesburg",Metals,5143,Metal Scraps,92,Monthly,Organic Material,Energy Source,Medium,Monthly
+Factory_265,"USA, California",Electronics,2708,Slag,488,Weekly,Bio-fuel,Composting,Medium,Daily
+Factory_457,"South Africa, Johannesburg",Plastics,1632,Bio-waste,464,Monthly,Steel,Composting,High,Daily
+Factory_25,"USA, California",Automotive,254,Slag,967,Daily,Silicon,Composting,High,Weekly
+Factory_67,"South Africa, Johannesburg",Chemicals,2162,Bio-waste,216,Weekly,Bio-fuel,Raw Material,Medium,Monthly
+Factory_340,"South Africa, Johannesburg",Pharmaceuticals,8630,Plastic Waste,389,Monthly,Recycled Plastic,Composting,Low,Monthly
+Factory_262,"Japan, Tokyo",Automotive,9944,Waste Chemicals,34,Daily,Heat Energy,Energy Source,Medium,Daily
+Factory_419,"USA, California",Metals,7455,Plastic Waste,320,Monthly,Steel,Recycling,High,Monthly
+Factory_292,"Brazil, Sao Paulo",Electronics,7810,Plastic Waste,364,Monthly,Recycled Plastic,Recycling,High,Monthly
+Factory_312,"Germany, Berlin",Chemicals,5066,Bio-waste,516,Monthly,Recycled Plastic,Energy Source,High,Monthly
+Factory_82,"China, Shenzhen",Pharmaceuticals,6258,Metal Scraps,547,Monthly,Recycled Plastic,Energy Source,High,Monthly
+Factory_394,"India, Mumbai",Metals,2654,Plastic Waste,718,Monthly,Heat Energy,Energy Source,High,Monthly
+Factory_315,"China, Shenzhen",Pharmaceuticals,3715,Bio-waste,885,Weekly,Heat Energy,Recycling,Medium,Weekly
+Factory_261,"USA, California",Food Processing,3972,Metal Scraps,915,Monthly,Organic Material,Raw Material,Medium,Monthly
+Factory_154,"India, Mumbai",Metals,6523,Slag,629,Daily,Heat Energy,Energy Source,Low,Daily
+Factory_218,"Brazil, Sao Paulo",Textiles,1234,Slag,813,Weekly,Recycled Plastic,Composting,High,Weekly
+Factory_349,"South Africa, Johannesburg",Automotive,4286,Metal Scraps,789,Daily,Steel,Recycling,Low,Monthly
+Factory_317,"USA, California",Pharmaceuticals,8144,Waste Chemicals,244,Monthly,Bio-fuel,Energy Source,Low,Weekly
+Factory_285,"India, Mumbai",Metals,8800,Plastic Waste,564,Weekly,Recycled Plastic,Composting,High,Weekly
+Factory_327,"Japan, Tokyo",Chemicals,8076,Heat,13,Daily,Recycled Plastic,Energy Source,Low,Monthly
+Factory_75,"Germany, Berlin",Plastics,5619,Waste Chemicals,94,Monthly,Recycled Plastic,Recycling,High,Daily
+Factory_3,"China, Shenzhen",Metals,7641,Plastic Waste,821,Monthly,Recycled Plastic,Raw Material,High,Monthly
+Factory_11,"UK, London",Textiles,2698,Heat,870,Daily,Recycled Plastic,Energy Source,Low,Daily
+Factory_188,"South Africa, Johannesburg",Textiles,1593,Slag,244,Daily,Bio-fuel,Energy Source,Low,Daily
+Factory_3,"Japan, Tokyo",Plastics,4297,Slag,665,Weekly,Bio-fuel,Energy Source,High,Weekly
+Factory_42,"UK, London",Textiles,1410,Waste Chemicals,471,Monthly,Steel,Recycling,Low,Weekly
+Factory_30,"UK, London",Metals,644,Heat,607,Weekly,Silicon,Composting,Medium,Daily
+Factory_470,"South Africa, Johannesburg",Automotive,7590,Waste Chemicals,529,Weekly,Recycled Plastic,Recycling,Medium,Daily
+Factory_452,"Japan, Tokyo",Plastics,9395,Heat,462,Weekly,Organic Material,Raw Material,High,Weekly
+Factory_201,"USA, California",Food Processing,6639,Plastic Waste,956,Daily,Silicon,Recycling,Medium,Daily
+Factory_12,"Japan, Tokyo",Food Processing,5905,Metal Scraps,885,Daily,Silicon,Raw Material,Low,Weekly
+Factory_482,"USA, California",Electronics,7968,Metal Scraps,608,Weekly,Recycled Plastic,Energy Source,Low,Monthly
+Factory_483,"UK, London",Metals,2277,Slag,696,Daily,Organic Material,Composting,High,Daily
+Factory_462,"UK, London",Metals,7734,Slag,101,Daily,Silicon,Recycling,Medium,Weekly
+Factory_360,"India, Mumbai",Metals,8945,Slag,618,Daily,Recycled Plastic,Recycling,High,Daily
+Factory_255,"China, Shenzhen",Plastics,1743,Waste Chemicals,46,Monthly,Organic Material,Raw Material,High,Weekly
+Factory_67,"Brazil, Sao Paulo",Plastics,5166,Plastic Waste,835,Monthly,Steel,Raw Material,Medium,Weekly
+Factory_493,"South Africa, Johannesburg",Automotive,3614,Slag,247,Daily,Steel,Composting,Low,Monthly
+Factory_164,"China, Shenzhen",Electronics,3582,Heat,160,Weekly,Steel,Energy Source,Low,Monthly
+Factory_337,"Brazil, Sao Paulo",Automotive,6816,Slag,613,Monthly,Recycled Plastic,Composting,Medium,Weekly
+Factory_446,"USA, California",Chemicals,9213,Heat,868,Monthly,Steel,Energy Source,High,Monthly
+Factory_454,"Japan, Tokyo",Plastics,9096,Slag,182,Weekly,Organic Material,Energy Source,High,Weekly
+Factory_271,"South Africa, Johannesburg",Plastics,6197,Waste Chemicals,153,Monthly,Bio-fuel,Raw Material,Low,Daily
+Factory_296,"Brazil, Sao Paulo",Metals,2092,Metal Scraps,646,Monthly,Organic Material,Recycling,Low,Daily
+Factory_332,"Japan, Tokyo",Pharmaceuticals,4686,Metal Scraps,899,Monthly,Heat Energy,Recycling,Medium,Weekly
