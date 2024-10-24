@@ -11,7 +11,7 @@ app = FastAPI(title="Factory Recommendation System", version="1.0")
 # CORS Configuration: Restrict to specific domains in production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://ftl-frontend-eight.vercel.app/", "https://ftl-frontend-j0llkdfas-jumas-projects-d97866b5.vercel.app", "https://ftl-frontend-j0llkdfas-jumas-projects-d97866b5.vercel.app"],
+    allow_origins=["https://ftl-frontend-eight.vercel.app", "https://ftl-frontend-j0llkdfas-jumas-projects-d97866b5.vercel.app", "https://ftl-frontend-j0llkdfas-jumas-projects-d97866b5.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
