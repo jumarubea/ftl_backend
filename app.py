@@ -76,7 +76,13 @@ def get_recommendations(user_input: UserInput):
             return {"message": "No matching factories found", "factories": []}
 
         recommendations = matches[['Factory Name', 'Location', 'Industry Types']].to_dict(orient='records')
-
+        recommendations = [
+            {
+                "name": rec["Factory Name"],  # Ensure proper keys
+                "location": rec["Location"],  # Ensure proper keys
+                "industry": rec["Industry Types"]  # Ensure proper keys
+            } for rec in recommendations
+        ]
     return {"factories": recommendations}
 
 @app.get("/")
